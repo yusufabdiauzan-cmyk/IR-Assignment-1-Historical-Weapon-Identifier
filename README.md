@@ -88,13 +88,12 @@ Wikipedia-derived text is licensed under Creative Commons Attribution-ShareAlike
 
 ## Hugging Face Space
 
-This project is ready to upload to a Hugging Face Space using the Gradio SDK. Include:
+This project is uploaded to a Hugging Face Space using the Gradio SDK. Include:
 
 ```text
-app.py
-requirements.txt
-src/
-data/
+app.py: https://huggingface.co/spaces/yusufabdzn/Historical_Weapon_Identifier/resolve/main/app.py
+src/ : https://huggingface.co/yusufabdzn/Historical_Weapon_Identifier
+data/ : https://huggingface.co/datasets/yusufabdzn/Historical_Weapon_Identifier
 ```
 
 The Space will download the embedding model and train the lightweight classifier on first startup. If you want the Space to refresh from Wikipedia on startup, run `python -m src.build_wikipedia_dataset` before `python -m src.train`, but the simplest submission path is to upload the already generated `data/` files.
