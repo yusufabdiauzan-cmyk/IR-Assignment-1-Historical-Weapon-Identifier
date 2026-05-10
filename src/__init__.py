@@ -1,1 +1,0 @@
-"""Historical weapon identifier package."""
