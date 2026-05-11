@@ -1,0 +1,99 @@
+{
+  "yatagan": {
+    "name": "Yatagan",
+    "summary": "A yatagan is an Ottoman and Balkan short sword or long knife with a forward-curved single-edged blade, often richly decorated and commonly fitted with bone, horn, or ivory grip scales that can flare at the end.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved one-handed",
+      "forward-curved blade",
+      "ornate spine",
+      "ivory hilt"
+    ],
+    "source_title": "Yatagan",
+    "source_url": "https://en.wikipedia.org/wiki/Yatagan",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "thumb_ring": {
+    "name": "Thumb ring",
+    "summary": "A thumb ring is an archery accessory worn on the thumb to protect it and help draw a bowstring, especially in traditions using a thumb draw. It is not itself a weapon, but it is a weapon-adjacent artifact commonly displayed with bows.",
+    "signals": [
+      "Archery accessories",
+      "Bows",
+      "ring",
+      "thumb draw",
+      "displayed alongside bows"
+    ],
+    "source_title": "Thumb ring",
+    "source_url": "https://en.wikipedia.org/wiki/Thumb_ring",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "tachi": {
+    "name": "Tachi",
+    "summary": "A tachi is a Japanese curved sword that predates the katana and is traditionally associated with edge-down suspension. It is often longer and more curved than a katana, with Japanese fittings and a wrapped handle.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved two-handed",
+      "Japanese sword",
+      "edge-down carry",
+      "wrapped handle"
+    ],
+    "source_title": "Tachi",
+    "source_url": "https://en.wikipedia.org/wiki/Tachi",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "odachi": {
+    "name": "Odachi",
+    "summary": "An odachi, also called nodachi in some contexts, is a very large Japanese sword. It is much longer than a typical katana and usually has a curved single-edged blade with a long wrapped grip.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Greatswords",
+      "Japanese sword",
+      "very long blade",
+      "wrapped handle"
+    ],
+    "source_title": "Odachi",
+    "source_url": "https://en.wikipedia.org/wiki/%C5%8Cdachi",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "wakizashi": {
+    "name": "Wakizashi",
+    "summary": "A wakizashi is a short Japanese companion sword, longer than a tanto but shorter than a katana, usually with a curved single-edged blade and traditional wrapped grip.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords",
+      "Japanese sword",
+      "short companion sword"
+    ],
+    "source_title": "Wakizashi",
+    "source_url": "https://en.wikipedia.org/wiki/Wakizashi",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "tanto": {
+    "name": "Tanto",
+    "summary": "A tanto is a short Japanese dagger or knife-like blade, typically much shorter than a wakizashi and often fitted in traditional Japanese mountings.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Knives and daggers",
+      "Japanese dagger",
+      "short blade"
+    ],
+    "source_title": "Tanto",
+    "source_url": "https://en.wikipedia.org/wiki/Tant%C5%8D",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  }
+}

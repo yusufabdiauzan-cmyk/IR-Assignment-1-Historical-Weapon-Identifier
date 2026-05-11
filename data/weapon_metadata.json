@@ -1,0 +1,2102 @@
+{
+  "yatagan": {
+    "name": "Yatagan",
+    "summary": "A yatagan is an Ottoman and Balkan short sword or long knife with a forward-curved single-edged blade, often richly decorated and commonly fitted with bone, horn, or ivory grip scales that can flare at the end.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved one-handed",
+      "forward-curved blade",
+      "ornate spine",
+      "ivory hilt"
+    ],
+    "source_title": "Yatagan",
+    "source_url": "https://en.wikipedia.org/wiki/Yatagan",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "thumb_ring": {
+    "name": "Thumb ring",
+    "summary": "A thumb ring is an archery accessory worn on the thumb to protect it and help draw a bowstring, especially in traditions using a thumb draw. It is not itself a weapon, but it is a weapon-adjacent artifact commonly displayed with bows.",
+    "signals": [
+      "Archery accessories",
+      "Bows",
+      "ring",
+      "thumb draw",
+      "displayed alongside bows"
+    ],
+    "source_title": "Thumb ring",
+    "source_url": "https://en.wikipedia.org/wiki/Thumb_ring",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "tachi": {
+    "name": "Tachi",
+    "summary": "A tachi is a Japanese curved sword that predates the katana and is traditionally associated with edge-down suspension. It is often longer and more curved than a katana, with Japanese fittings and a wrapped handle.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved two-handed",
+      "Japanese sword",
+      "edge-down carry",
+      "wrapped handle"
+    ],
+    "source_title": "Tachi",
+    "source_url": "https://en.wikipedia.org/wiki/Tachi",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "odachi": {
+    "name": "Ōdachi",
+    "summary": "An ōdachi, also called nodachi in some contexts, is a very large Japanese sword. It is much longer than a typical katana and usually has a curved single-edged blade with a long wrapped grip.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Greatswords",
+      "Japanese sword",
+      "very long blade",
+      "wrapped handle"
+    ],
+    "source_title": "Ōdachi",
+    "source_url": "https://en.wikipedia.org/wiki/%C5%8Cdachi",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "wakizashi": {
+    "name": "Wakizashi",
+    "summary": "A wakizashi is a short Japanese companion sword, longer than a tantō but shorter than a katana, usually with a curved single-edged blade and traditional wrapped grip.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords",
+      "Japanese sword",
+      "short companion sword"
+    ],
+    "source_title": "Wakizashi",
+    "source_url": "https://en.wikipedia.org/wiki/Wakizashi",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "tanto": {
+    "name": "Tantō",
+    "summary": "A tantō is a short Japanese dagger or knife-like blade, typically much shorter than a wakizashi and often fitted in traditional Japanese mountings.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Knives and daggers",
+      "Japanese dagger",
+      "short blade"
+    ],
+    "source_title": "Tantō",
+    "source_url": "https://en.wikipedia.org/wiki/Tant%C5%8D",
+    "source_page": "curated_visual_descriptions",
+    "source_license": "project-authored"
+  },
+  "falchion": {
+    "name": "Falchion",
+    "summary": "A falchion (; Old French: fauchon; Latin: falx, \"sickle\") is a one-handed, single-edged 32–38-inch (81–97 cm) sword of European origin. Falchions are found in different forms from around the 13th century up to and including the 16th century. In some versions, the falchion looks rather like the seax and later the sabre, and in other versions more like a machete with a crossguard.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved one-handed"
+    ],
+    "source_title": "Falchion",
+    "source_url": "https://en.wikipedia.org/wiki/Falchion",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "backsword": {
+    "name": "Backsword",
+    "summary": "A backsword is a type of sword characterised by having a single-edged blade and a hilt with a single-handed grip. It is so called because the triangular cross section gives a flat back edge opposite the cutting edge. Later examples often have a \"false edge\" on the back near the tip, which was in many cases sharpened to make an actual edge and facilitate thrusting attacks. From around the early 14th century, the backsword became the first type of European sword to be fitted with a knuckle guard. The term \"backsword\" can also refer to the singlestick, which is used to train for fighting with the backsword, or to the sport or art of fighting in this fashion. Backswording was an alternative.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Backsword",
+    "source_url": "https://en.wikipedia.org/wiki/Backsword",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "jian": {
+    "name": "Jian",
+    "summary": "The jian (Mandarin Chinese: [tɕjɛ̂n], Chinese: 劍, English approximation: jyehn, Cantonese: [kim˧]) is a double-edged straight sword used during the last 2,500 years in China. The first Chinese sources that mention the jian date to the 7th century BCE, during the Spring and Autumn period, one of the earliest specimens being the Sword of Goujian. Historical one-handed versions have blades varying from 45 to 80 centimeters (18 to 31 inches) in length. The weight of an average sword of 70-centimetre (28-inch) blade-length would be approximately 700 to 900 grams (1.5 to 2 pounds). There are also larger two-handed versions used for training by many styles of Chinese martial arts. Professional.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Jian",
+    "source_url": "https://en.wikipedia.org/wiki/Jian",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dao_chinese_sword": {
+    "name": "Dao (Chinese sword)",
+    "summary": "Dao (pronunciation: [táʊ], English approximation: dow, Chinese: 刀; pinyin: dāo; jyutping: dou1) are single-edged Chinese swords, primarily used for slashing and chopping. They can be straight or curved. The most common form is also known as the Chinese sabre, although those with wider blades are sometimes referred to as Chinese broadswords. In China, the dao is considered one of the four traditional weapons, along with the gun (stick or staff), qiang (spear), and the jian (double-edged sword), called in this group \"The General of Weapons\".",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved one-handed"
+    ],
+    "source_title": "Dao (Chinese sword)",
+    "source_url": "https://en.wikipedia.org/wiki/Dao_(Chinese_sword)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "estoc": {
+    "name": "Estoc",
+    "summary": "The French estoc is a type of sword, also called a tuck in English, in use from the 14th to the 17th century. It is characterized by a cruciform hilt with a grip for two-handed use and a straight, edgeless, but sharply pointed blade around 36 to 52 in (91 to 132 cm) in length. It is noted for its ability to pierce mail armor.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Estoc",
+    "source_url": "https://en.wikipedia.org/wiki/Estoc",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "flame_bladed_sword": {
+    "name": "Flame-bladed sword",
+    "summary": "A flame-bladed sword or wave-bladed sword has a characteristically undulating style of blade. The wave in the blade is often considered to contribute a flame-like quality to the appearance of a sword. The dents on the blade can appear parallel or in a zig-zag manner. The two most common flame-bladed swords are rapiers or Zweihänders. A flame-bladed sword was not exclusive to a certain country or region. The style of blade can be found on swords from modern-day Germany, France, Spain, and Switzerland.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Flame-bladed sword",
+    "source_url": "https://en.wikipedia.org/wiki/Flame-bladed_sword",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "brass_knuckles": {
+    "name": "Brass knuckles",
+    "summary": "Brass knuckles (also referred to as brass knucks, knuckledusters, iron fists and paperweights, among other names) are melee weapons used primarily in hand-to-hand combat. They are fitted and designed to be worn around the knuckles of the human hand. Despite their name, they are often made from steel, wood, aluminium, plastics or carbon fibers and not necessarily brass. Designed to preserve and concentrate a punch's force by directing it toward a harder and smaller contact area, they result in increased tissue disruption, including an increased likelihood of fracturing the intended target's bones on impact. The extended and rounded palm grip also spreads the counter-force across the.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Hand or fist weapons and fans"
+    ],
+    "source_title": "Brass knuckles",
+    "source_url": "https://en.wikipedia.org/wiki/Brass_knuckles",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "chokuto": {
+    "name": "Chokutō",
+    "summary": "The chokutō (直刀, 'straight sword') is a straight, single-edged Japanese sword that was mainly produced prior to the 9th century. Its basic style is likely derived from similar swords of ancient China. Chokutō were used on foot for stabbing or slashing and were worn hung from the waist. Until the Heian period such swords were called tachi (大刀), distinct from tachi written as 太刀, as the latter refers to curved swords.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Chokutō",
+    "source_url": "https://en.wikipedia.org/wiki/Chokut%C5%8D",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "cestus_boxing": {
+    "name": "Cestus (boxing)",
+    "summary": "A cestus or caestus (Classical Latin: [ˈkae̯stʊs], Ancient Greek: κεστός) is a fighting glove that was sometimes used in Roman gladiatorial events. It was based on a Greek original, which employed straps called himantes and sphirae, hard leather strips that enclosed and protected the fist and lower arm. Some cesti were fitted with studs or spikes to inflict potentially lethal injuries. Cestus fighters seem to have had no form of body armour, apart from the cestus itself. Contemporary depictions show the cestus worn in pairs.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Hand or fist weapons and fans"
+    ],
+    "source_title": "Cestus (boxing)",
+    "source_url": "https://en.wikipedia.org/wiki/Cestus_(boxing)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "gauntlet_glove": {
+    "name": "Gauntlet (glove)",
+    "summary": "A gauntlet (also spelled gantlet) is a type of glove that protects the hand and wrist of a combatant. Gauntlets, which cover the hands, wrists, and sometimes forearms, are not to be confused with bracers, which cover the wrists and forearms but not the hands; bracers are common in medieval and fantasy cosplay.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Hand or fist weapons and fans"
+    ],
+    "source_title": "Gauntlet (glove)",
+    "source_url": "https://en.wikipedia.org/wiki/Gauntlet_(glove)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "deer_horn_knives": {
+    "name": "Deer horn knives",
+    "summary": "Deer horn knives (Chinese: 鹿角刀; pinyin: Lùjiǎodāo), also known as crescent moon knives or duck blades (Chinese: 鴛鴦鉞; pinyin: Yuānyāngyuè), are specialised Chinese bladed weapons consisting of two steel crescents crossing. They are used in Chinese martial arts. This crossing produces four curved, clawlike points, one of which is extended as the \"main\" blade. The practitioner grips the wrapped middle of the lengthened crescent with the other acting as a hand guard. They are relatively short weapons that are easily concealable in traditional Chinese clothing, and are usually trained in pairs, one for each hand. Deer horn knives are especially associated with the soft style Chinese martial art.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Hand or fist weapons and fans"
+    ],
+    "source_title": "Deer horn knives",
+    "source_url": "https://en.wikipedia.org/wiki/Deer_horn_knives",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hwandudaedo": {
+    "name": "Hwandudaedo",
+    "summary": "Hwandudaedo (Korean: 환두대도; lit. ''sword with ring pommel' or 'ring-pommelled sword'') is the modern Korean language term for one of the earliest original types of Korean sword, which appeared in the Proto–Three Kingdoms period. These swords were at first symbols of a ruler's power, but their availability increased in the 5th century, and they became a more widespread symbol of military or political rank. The frequency of finds declines in the 6th century. The hwandu-daedo was a large military sword designed for battle, with a thick back and a sharpened blade. This sword's name was given because of the round shape of the pommel (modern Korean 대도 daedo). The swords were richly decorated, with.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Hwandudaedo",
+    "source_url": "https://en.wikipedia.org/wiki/Hwandudaedo",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "japanese_war_fan": {
+    "name": "Japanese war fan",
+    "summary": "The Japanese war fan, or tessen (Japanese: 鉄扇,てっせん, romanized: tessen, lit. 'iron fan'), is a Japanese hand fan used as a weapon or for signalling. Several types of war fans were used by the samurai class of feudal Japan and each had a different look and purpose.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Hand or fist weapons and fans"
+    ],
+    "source_title": "Japanese war fan",
+    "source_url": "https://en.wikipedia.org/wiki/Japanese_war_fan",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dha_sword": {
+    "name": "Dha (sword)",
+    "summary": "Dha (Burmese: ဓား; also spelled dah) is a Burmese word meaning \"knife\" or \"sword\" which conventionally refers to a wide variety of bladed weapons used across Southeast Asia, especially present-day Myanmar (Burma), Thailand, Yunnan, Laos, Cambodia, and Northeast India. It is related to the Thai word for a single-edged sword, daab/darb (Thai: ดาบ).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved one-handed"
+    ],
+    "source_title": "Dha (sword)",
+    "source_url": "https://en.wikipedia.org/wiki/Dha_(sword)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "flyssa": {
+    "name": "Flyssa",
+    "summary": "The flyssa, known locally as ajenoui (Kabyle: ajenoui or uturam), is a traditional bladed weapon of Algeria produced and used during the 19th century and earlier. It originates from the Kabyle Iflissen Lebhar tribal confederacy.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Flyssa",
+    "source_url": "https://en.wikipedia.org/wiki/Flyssa",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "ida_sword": {
+    "name": "Ida (sword)",
+    "summary": "The Ida (also known as Ida gigun meaning 'long sword') is a traditional sword used by the Yoruba people of West Africa. Distantly reminiscent of European late-medieval swords, It served as one of the primary weapons of Yoruba armies before the widespread adoption of firearms, alongside spears and bows and arrows.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Ida (sword)",
+    "source_url": "https://en.wikipedia.org/wiki/Ida_(sword)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "emeici": {
+    "name": "Emeici",
+    "summary": "Emeici (峨嵋刺; variously translated as \"Emei daggers\" or \"Emei piercers\") are a traditional Chinese martial arts weapon. They are a pair of metal rods with sharp ends used for stabbing; they are typically mounted on a detachable ring worn on the middle finger, allowing them to spin and be elaborately manipulated. These weapons originated at Mount Emei (hence the name). They are a piece of equipment used in wushu to this day. These weapons are used for 'open palm' techniques, and are similar to 'judge's pens'. The general idea of this weapon is to confuse the attacker by spinning the blades, thereby providing a distraction while trying to get close enough to stab. Also, emeici can be concealed.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Hand or fist weapons and fans"
+    ],
+    "source_title": "Emeici",
+    "source_url": "https://en.wikipedia.org/wiki/Emeici",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "firangi_sword": {
+    "name": "Firangi (sword)",
+    "summary": "The firangi (; derived from the Arabic term (al-Faranji) for a Western European [a \"Frank\"]) was an Indian sword type which used blades manufactured in Western Europe, particularly Solingen, and imported by the Portuguese, or made locally in imitation of European blades.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Straight one-handed"
+    ],
+    "source_title": "Firangi (sword)",
+    "source_url": "https://en.wikipedia.org/wiki/Firangi_(sword)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bagh_nakh": {
+    "name": "Bagh nakh",
+    "summary": "The bagh nakh, vagh nakh, or vagh nakhya (Marathi: वाघनख / वाघनख्या, Bengali: বাঘনখ, Hindi: बाघ नख, Urdu: باگھ نکھ, lit. tiger claw) is a fist-load, claw-like dagger, originating from the Indian subcontinent, designed to fit over the knuckles or be concealed under and against the palm. It consists of four or five curved blades affixed to a crossbar or glove and is designed to slash through skin and muscle. It is believed to have been inspired by the armament of big cats, and the term bagh nakh itself means tiger's claw in Hindi.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Hand or fist weapons and fans"
+    ],
+    "source_title": "Bagh nakh",
+    "source_url": "https://en.wikipedia.org/wiki/Bagh_nakh",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dao_naga_sword": {
+    "name": "Dao (Naga sword)",
+    "summary": "Dao is the sword of the people of Northeastern India, mainly in the Indian states of Nagaland, Mizoram, Manipur, Assam and Kachin, Sagaing region of Myanmar. The sword, with its wooden hilt, and unique square form is used for digging as well as used in historical warfare. In modern times, it is generally used for cutting meat and wood.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved one-handed"
+    ],
+    "source_title": "Dao (Naga sword)",
+    "source_url": "https://en.wikipedia.org/wiki/Dao_(Naga_sword)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "japanese_sword": {
+    "name": "Japanese sword",
+    "summary": "A Japanese sword (Japanese: 日本刀, Hepburn: nihontō) is one of several types of traditionally made swords from Japan. Bronze swords were made as early as the Yayoi period (1,000 BC – 300 AD), though most people generally refer to the curved blades made from the Heian period (794–1185) to the present day when speaking of \"Japanese swords\". There are many types of Japanese swords that differ by size, shape, field of application, and method of manufacture. Some of the more commonly known types of Japanese swords are the katana, tachi, ōdachi, wakizashi, and tantō.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved two-handed"
+    ],
+    "source_title": "Japanese sword",
+    "source_url": "https://en.wikipedia.org/wiki/Japanese_sword",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "gladius": {
+    "name": "Gladius",
+    "summary": "Gladius (Classical Latin: [ˈɡɫadiʊs]) is a Latin word properly referring to the type of sword that was used by ancient Roman foot soldiers starting from the 3rd century BC and until the 3rd century AD. Linguistically, within Latin, the word also came to mean \"sword\", regardless of the type used. Early ancient Roman swords were similar to those of the Greeks, called xiphe (pl., sg.: xiphos). From the 3rd century BC, however, the Romans adopted a weapon based on the sword of the Celtiberians of Hispania in service to Carthage during the Punic Wars, known in Latin as the gladius hispaniensis, meaning \"Hispanic-type sword\". The Romans modified it depending on how their battle units waged war,.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Gladius",
+    "source_url": "https://en.wikipedia.org/wiki/Gladius",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "longsword": {
+    "name": "Longsword",
+    "summary": "A longsword (also spelled as long sword or long-sword) is a type of European sword characterized as having a cruciform hilt with a grip for primarily two-handed use (around 15 to 30 cm or 6 to 12 in), a straight double-edged blade of around 80 to 110 cm (31 to 43 in), and weighing approximately 2 to 3 kg (4 lb 7 oz to 6 lb 10 oz). The \"longsword\" type exists in a morphological continuum with the medieval knightly sword and the Renaissance-era Zweihänder. It was prevalent during the late medieval and Renaissance periods (approximately 1350 to 1550).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Hand-and-a-half and two-handed greatswords"
+    ],
+    "source_title": "Longsword",
+    "source_url": "https://en.wikipedia.org/wiki/Longsword",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kodachi": {
+    "name": "Kodachi",
+    "summary": "A kodachi (小太刀, こだち), literally translating into \"small or short tachi (sword)\", is one of the traditionally made Japanese swords (nihontō) used by the samurai class of feudal Japan. Kodachi are from the early Kamakura period (1185–1333) and are in the shape of a tachi. Kodachi are mounted in tachi style, but with a length of less than 60 cm (24 in). They are often confused with wakizashi, due to their length and handling techniques. The exact use of the kodachi is unknown; it may have been preferred to be worn in court by the noble class, or kuge, in Kyoto, and or it may have been worn by adolescent samurai. The location of the smith's signature indicates that the Kodachi was worn edge.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Kodachi",
+    "source_url": "https://en.wikipedia.org/wiki/Kodachi",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bolo_knife": {
+    "name": "Bolo knife",
+    "summary": "A bolo (Tagalog: iták/gulok, Ilocano: bunéng, Ibanag: badáng/aliwa, Pangasinan: baráng, Kapampangan: paláng, Bikol: tabák/minasbad, Cebuano: súndang/kampilan, Waray: sansibar, Hiligaynon: sandúko/binangon, Aklan: talibong) is a general term for traditional pre-colonial small- to medium-sized single-edged swords or large knives of the Philippines that function both as tools and weapons. Bolos are characterized by a wide curved blade that narrows down to the hilt, and that comes with a pointed or a blunt tip. Bolos are sometimes incorrectly described as a type of machete (as bolo machete), due to their similarities in use and shape. But bolos are not related to the machete. Bolos are.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Bolo knife",
+    "source_url": "https://en.wikipedia.org/wiki/Bolo_knife",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dotanuki": {
+    "name": "Dōtanuki",
+    "summary": "Dōtanuki (同田貫) is a name of a Japanese school of swordsmiths from Higo province who produced swords in the Bizen tradition during the feudal period of Japan.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved two-handed"
+    ],
+    "source_title": "Dōtanuki",
+    "source_url": "https://en.wikipedia.org/wiki/D%C5%8Dtanuki",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "falx": {
+    "name": "Falx",
+    "summary": "The falx was a weapon with a curved blade that was sharp on the inside edge used by the Thracians and Dacians. The name was later applied to a siege hook used by the Romans.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved two-handed"
+    ],
+    "source_title": "Falx",
+    "source_url": "https://en.wikipedia.org/wiki/Falx",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "baselard": {
+    "name": "Baselard",
+    "summary": "The baselard, Schwiizerdolch in Swiss-German (also basilard, baslard, in Middle French also badelare, bazelaire and variants, Latinized baselardus, basolardus etc., in Middle High German beseler, baseler, basler, pasler; baslermesser) is a historical type of dagger or short sword of the Late Middle Ages.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Baselard",
+    "source_url": "https://en.wikipedia.org/wiki/Baselard",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "khanjar": {
+    "name": "Khanjar",
+    "summary": "A khanjar is a traditional dagger originating from the Sultanate of Oman. Worn by men for ceremonial occasions, it is a short curved blade shaped like the letter \"J\" and resembles a hook. It can be made from a variety of different materials, depending on the quality of its craftsmanship. It is a popular souvenir among tourists and is sold in souqs throughout the region. A national symbol of the sultanate, the khanjar is featured on Oman's national emblem and on the Omani rial. It also features in logos and commercial imagery by companies based in Oman.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Khanjar",
+    "source_url": "https://en.wikipedia.org/wiki/Khanjar",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "cinquedea": {
+    "name": "Cinquedea",
+    "summary": "The cinquedea (, ) or cinqueda is a civilian short sword (or long dagger). It was developed in northern Italy and enjoyed a period of popularity during the Italian Renaissance of the 15th and early 16th centuries. The name cinquedea means \"five fingers\", and it describes the width of the blade next to the guard. The blade was heavy, about 45 cm (18 in) in length, and tapered to a somewhat rounded point. The grip was simple with a small pommel, and the guard was curved with the concave side toward the point. There were typically several fullers along the wider sides of the blade to lighten the weapon. The wide blade was useful for decorative etching. The wide blade was also used for.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Cinquedea",
+    "source_url": "https://en.wikipedia.org/wiki/Cinquedea",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "changdao": {
+    "name": "Changdao",
+    "summary": "The changdao (traditional Chinese: 長刀; simplified Chinese: 长刀; pinyin: chángdāo; lit. 'long sword') was a two-handed, single-edged Chinese sword. The term changdao has been translated as \"long saber,\" \"saber-staff,\" or \"long-handled saber.\" During the Ming dynasty, changdao was often used as a general term for two-handed swords and was used in the frequent raids along the coast. After Republican Era, the term miaodao is sometimes used to describe changdao due to similarity. Tang dynasty sources describe the changdao as being identical to the modao (Chinese: 陌刀), but the modao may have been a double-edged weapon like earlier zhanmajian. The changdao seems to have first appeared during the.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Hand-and-a-half and two-handed greatswords"
+    ],
+    "source_title": "Changdao",
+    "source_url": "https://en.wikipedia.org/wiki/Changdao",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "misericorde_weapon": {
+    "name": "Misericorde (weapon)",
+    "summary": "A misericorde ( or ; from French miséricorde, \"mercy\"; itself derived from the Latin misericordia, \"act of mercy\") was a long and narrow knife used during the High Middle Ages to deliver mercy killings to mortally wounded knights, as it was designed to be thin enough to strike through the gaps in their armour. The misericorde was used to dispatch knights who had received mortal wounds, which were not always quickly fatal in the age of bladed combat; it could also be used as a means of killing an active adversary, for example during a struggle. The blade could be pushed through the visor or eyeholes of the helm with the aim of piercing the brain, or thrust through holes or weak points in.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Misericorde (weapon)",
+    "source_url": "https://en.wikipedia.org/wiki/Misericorde_(weapon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bilbo_sword": {
+    "name": "Bilbo (sword)",
+    "summary": "The bilbo is a type of 16th century, cut-and-thrust sword or small rapier formerly popular in America. They have well-tempered and flexible blades and were very popular aboard ships, where they were used similarly to a cutlass. The term comes from the Basque city of Bilbao, Bilbo in Basque, where the metal (bilbo steel) was extracted and later sent to Toledo, a city in the center of Spain, where these swords were forged and exported to the New World. These swords were also sold to merchants of every European nation, including England.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Bilbo (sword)",
+    "source_url": "https://en.wikipedia.org/wiki/Bilbo_(sword)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "colichemarde": {
+    "name": "Colichemarde",
+    "summary": "Colichemarde is a type of small sword (often written \"smallsword\") blade that was popular from the late 17th to the mid-18th century.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Colichemarde",
+    "source_url": "https://en.wikipedia.org/wiki/Colichemarde",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "executioner_s_sword": {
+    "name": "Executioner's sword",
+    "summary": "An executioner's sword is a sword designed specifically for decapitation of condemned criminals (as opposed to combat).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Hand-and-a-half and two-handed greatswords"
+    ],
+    "source_title": "Executioner's sword",
+    "source_url": "https://en.wikipedia.org/wiki/Executioner%27s_sword",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "katana": {
+    "name": "Katana",
+    "summary": "A katana (刀, かたな; lit. 'one-sided blade') is a Japanese sword characterized by a curved, single-edged blade with a circular or squared guard and long grip to accommodate two hands. Developed later than the tachi, it was used by samurai in feudal Japan and worn with the edge facing upward. Since the Muromachi period, many old tachi were cut from the root and shortened, and the blade at the root was crushed and converted into a katana. The specific term for katana in Japan is uchigatana (打刀, うちがたな; lit. 'striking sword') and the term katana (刀) often refers to single-edged swords from around the world.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Curved two-handed"
+    ],
+    "source_title": "Katana",
+    "source_url": "https://en.wikipedia.org/wiki/Katana",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "claymore": {
+    "name": "Claymore",
+    "summary": "A claymore (; from Scottish Gaelic: claidheamh-mòr, \"great sword\") is either the Scottish variant of the late medieval two-handed sword or the Scottish variant of the basket-hilted sword. The former is characterised as having a cross hilt of forward-sloping quillons with quatrefoil terminations and was in use from the 15th to 17th centuries. The word claymore was first used in reference to basket-hilted swords during the 18th century in Scotland and parts of England. This description was maybe not used during the 17th century, when basket-hilted swords were the primary military swords across Europe, but these basket-hilted, broad-bladed swords remained in service with officers of Scottish.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Hand-and-a-half and two-handed greatswords"
+    ],
+    "source_title": "Claymore",
+    "source_url": "https://en.wikipedia.org/wiki/Claymore",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "billao": {
+    "name": "Billao",
+    "summary": "A billao (Somali: billaawe), also known as a bilaawe, is a horn-hilted Somali shortsword or long dagger depending on blade length. It served most notably as a close-quarters weapon in the Dervish State, at the turn of the 20th century, as well as Northern Sultanates around that same time period.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Billao",
+    "source_url": "https://en.wikipedia.org/wiki/Billao",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "akrafena": {
+    "name": "Akrafena",
+    "summary": "An afena (Twi to mean sword) is an Akan sword, originally meant for warfare but also forming part of Akan heraldry. The foremost example of an afena is the Mponponsuo (meaning \"responsibility\"), which belonged to Opoku Ware II. It has survived to the present day because it is still occasionally used in ceremonies, such as the Akwasidae Festival. The expert use of afena is also a martial art, utilising the blade in conjunction with knives, improvised weapons, street-fighting, hand-to-hand combat, joint locks, grappling and weapon disarming techniques, as well as using the martial art of afena unarmed. The afena martial art is the national sport of the Ashanti Region.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Akrafena",
+    "source_url": "https://en.wikipedia.org/wiki/Akrafena",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "luwuk_sword": {
+    "name": "Luwuk (sword)",
+    "summary": "A luwuk is a type of short sword from the island of Java. This sword is found mostly in East Java and Central Java.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Shortswords"
+    ],
+    "source_title": "Luwuk (sword)",
+    "source_url": "https://en.wikipedia.org/wiki/Luwuk_(sword)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "adze": {
+    "name": "Adze",
+    "summary": "An adze () or adz is an ancient and versatile cutting tool similar to an axe but with the cutting edge perpendicular to the handle rather than parallel. Adzes have been used since the Stone Age. They are used for smoothing or carving wood in hand woodworking, and as a hoe for agriculture and horticulture. Two basic forms of an adze are the hand adze (short hoe)—a short-handled tool swung with one hand—and the foot adze (hoe)—a long-handled tool capable of powerful swings using both hands, the cutting edge usually striking at foot or shin level. A similar tool is called a mattock, which differs by having two blades, one perpendicular to the handle and one parallel.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Adze",
+    "source_url": "https://en.wikipedia.org/wiki/Adze",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "broadaxe": {
+    "name": "Broadaxe",
+    "summary": "A broadaxe is a large broad-headed axe. There are two categories of cutting edge on broadaxes, both are used for shaping logs into beams by hewing. On one type, one side is flat, and the other side beveled, a basilled edge, also called a side axe, single bevel, or chisle-edged axe. On the other type, both sides are beveled, sometimes called a double bevel axe, which produces a scalloped cut. On the basilled broadaxe the handle may curve away from the flat side to allow an optimal stance by the hewer in relation to the hewn surface, and to allow clearance for the hewer's hands. The flat blade is to make the surface flat but can only be worked from one direction and is right-handed or.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Broadaxe",
+    "source_url": "https://en.wikipedia.org/wiki/Broadaxe",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hand_axe": {
+    "name": "Hand axe",
+    "summary": "A hand axe (or handaxe or Acheulean hand axe) is a prehistoric stone tool with two faces that is the longest-used tool in human history. It is made from stone, usually flint or chert that has been \"reduced\" and shaped from a larger piece by knapping, or hitting against another stone. They are characteristic of the lower Acheulean and middle Palaeolithic (Mousterian) periods, roughly 1.6 million years ago to about 100,000 years ago, and used by Homo erectus and other early humans, but rarely by Homo sapiens. Their technical name (biface) comes from the fact that the archetypical model is a generally bifacial (with two wide sides or faces) and almond-shaped (amygdaloid) lithic flake. Hand.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Hand axe",
+    "source_url": "https://en.wikipedia.org/wiki/Hand_axe",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hatchet": {
+    "name": "Hatchet",
+    "summary": "A hatchet (from the Old French hachete, a diminutive form of hache, 'axe' of Germanic origin) is a single-handed striking tool with a sharp blade on one side used to cut and split wood, and a hammerhead on the other side. Hatchets may also be used for hewing when making flattened surfaces on logs; when the hatchet head is optimized for this purpose it is called a hewing hatchet. The earliest known use of the noun hatchet is in the Middle English period (1150—1500) Although 'hand axe' and 'hatchet' are often used interchangeably in contemporary usage, 19th and 20th century American manufacturers and retailers (Collins, Kelly, Vaughan, Warren, Mann; Simmons, Shapleigh, Sears, et al.).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Hatchet",
+    "source_url": "https://en.wikipedia.org/wiki/Hatchet",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "karambit": {
+    "name": "Karambit",
+    "summary": "The karambit or kerambit (as used in Indonesian), kurambik or karambiak (both from the Minangkabau language) is a small curved knife resembling a claw.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Fighting knives and daggers",
+      "Sickles and sickle like knives"
+    ],
+    "source_title": "Karambit",
+    "source_url": "https://en.wikipedia.org/wiki/Karambit",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bardiche": {
+    "name": "Bardiche",
+    "summary": "A bardiche , berdiche, bardische, bardeche, or berdish is a type of polearm used from the 14th to 17th centuries in Europe. Ultimately a descendant of the medieval sparth axe or Dane axe, the bardiche proper appears around 1400, but there are numerous medieval manuscripts that depict very similar weapons beginning c. 1250. The bardiche differs from the halberd in having neither a hook at the back nor a spear point at the top. The use of bardiches started in early 14th-century Austria. In the 16th century, the bardiche was associated with the streltsy, arquebusiers of Imperial Russia established by Ivan the Terrible.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Bardiche",
+    "source_url": "https://en.wikipedia.org/wiki/Bardiche",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "horseman_s_pick": {
+    "name": "Horseman's pick",
+    "summary": "The horseman's pick is a weapon of Middle Eastern origin used by cavalry during the Middle Ages in Europe and West Asia. It is a type of war hammer that has a very long spike on the reverse of the hammer head. Usually, this spike is slightly curved downwards, much like a miner's pickaxe. The term is sometimes used interchangeably with war hammer. A metal-made horseman's pick called \"nadziak\" was one of the main weapons of the famous Polish Winged Hussars. A weapon of late make, the horseman's pick was developed by the English and used by billmen. It was used with great success during the Hundred Years' War. A use of the horseman's pick was to tear men from their mounts. The horseman's pick.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Picks and pickaxes"
+    ],
+    "source_title": "Horseman's pick",
+    "source_url": "https://en.wikipedia.org/wiki/Horseman%27s_pick",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "battle_axe": {
+    "name": "Battle axe",
+    "summary": "A battle axe (also battle-axe, battle ax, or battle-ax) is an axe specifically designed for combat. Battle axes were designed differently to utility axes, with blades more akin to cleavers than to wood axes. Many were suitable for use in one hand, while others were larger and were deployed two-handed. Axes designed for warfare ranged in weight from just over 0.5 to 3 kg (1 to 7 lb), and in length from just over 30 cm (1 ft) to upwards of 150 cm (5 ft), as in the case of the Danish axe or the sparth axe. Cleaving weapons longer than 150 cm (5 ft) would arguably fall into the category of polearms.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Battle axe",
+    "source_url": "https://en.wikipedia.org/wiki/Battle_axe",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "igorot_people": {
+    "name": "Igorot people",
+    "summary": "The indigenous peoples of the Cordillera in northern Luzon, Philippines, often referred to by the exonym Igorot people, or more recently, as the Cordilleran peoples, are an ethnic group composed of 11 main ethnolinguistic groups whose domains are in the Cordillera Mountain Range, altogether numbering about 1.8 million people in the early 21st century. Their languages belong to the northern Luzon subgroup of Philippine languages, which in turn belongs to the Austronesian (Malayo-Polynesian) family. A 2014 genetic study has found that the Kankanaey (an Igorot ethnic group from Mountain Province), and by extension other indigenous Cordillera groups, descend almost entirely from the ancient.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Igorot people",
+    "source_url": "https://en.wikipedia.org/wiki/Igorot_people",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "golok": {
+    "name": "Golok",
+    "summary": "A golok is a cutting tool, similar to a machete, that comes in many variations and is found throughout the Malay Archipelago. It is used as an agricultural tool as well as a weapon. The word golok (sometimes misspelled in English as \"gollock\") is used in Indonesia and Malaysia. Both in Malaysia and in Indonesia, the term is usually interchangeable with the longer and broader parang. In the Sundanese region of West Java it is known as bedog. In the Philippines, the term gulok (also known as gunong), refers to different dagger weapons including the kris.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Axe-like"
+    ],
+    "source_title": "Golok",
+    "source_url": "https://en.wikipedia.org/wiki/Golok",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "falcata": {
+    "name": "Falcata",
+    "summary": "The falcata is a type of sword typical of pre-Roman Iberia. The falcata was used to great effect for warfare in the ancient Iberian Peninsula, and is firmly associated with the southern Iberian tribes, among other ancient peoples of Hispania. It was highly prized by the ancient general Hannibal, who equipped Carthaginian troops with it during the Second Punic War.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Axe-like"
+    ],
+    "source_title": "Falcata",
+    "source_url": "https://en.wikipedia.org/wiki/Falcata",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "aruval": {
+    "name": "Aruval",
+    "summary": "The aruval (ISO: arivāḷ) is a type of billhook machete from southern India, particularly common in the Tamil Nadu and Kerala. It is also known as the koḍuvāḷ, the kodavali, the machchu longu or the koita. It is a type of long sickle with a knife-like scythe-handle, and is used both as a tool and a weapon. Tamils revere the weapon as a symbol of Karupannar. In popular culture, it is sometimes associated with gangsters, especially in the Rayalaseema region. In Kerala, its primary use is for agriculture, mainly in coconut cutting, clearing pathways, cutting wood and other uses.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Axe-like"
+    ],
+    "source_title": "Aruval",
+    "source_url": "https://en.wikipedia.org/wiki/Aruval",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "elephant_goad": {
+    "name": "Elephant goad",
+    "summary": "The elephant goad, bullhook, or ankusha is a tool employed by mahout in the handling and training of elephants. The pointed tip of an elephant goad or a bullhook could be used to stab the elephant's head if the elephant charged nearby people, risking injury or death to the rider and bystanders. The elephant goad consists of a hook (usually bronze or steel) which is attached to a 60–90 cm (2.0–3.0 ft) handle, ending in a tapered end. A relief at Sanchi and a fresco at the Ajanta Caves depict a three-person crew on the war elephant, the driver with an elephant goad, what appears to be a noble warrior behind the driver and another attendant on the posterior of the elephant. Nossov and Dennis.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Picks and pickaxes"
+    ],
+    "source_title": "Elephant goad",
+    "source_url": "https://en.wikipedia.org/wiki/Elephant_goad",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hook_sword": {
+    "name": "Hook sword",
+    "summary": "The hook sword, twin hooks, fu tao, hu tou gou (tiger head hook) or shuang gou (Chinese: 鈎 or 鉤; pinyin: Gōu) is a Chinese weapon traditionally associated with northern styles of Chinese martial arts and Wushu weapons routines; however, it is now often used in southern styles as well.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Other"
+    ],
+    "source_title": "Hook sword",
+    "source_url": "https://en.wikipedia.org/wiki/Hook_sword",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hakapik": {
+    "name": "Hakapik",
+    "summary": "A hakapik (Norwegian: gaff) is a club, of Norwegian design, similar to a fishing gaff, used for killing and moving seals. The hakapik is a multipurpose hunting tool—a heavy wooden club, with a hammer head (used to crush a seal's skull), and a hook (used to drag the carcass) on the end. Regulation Canadian hakapiks consist of a metal head or ferrule that weighs at least 340 g (12 oz) with a slightly bent spike not more than 14 cm (5.5 in) in length on one side of the ferrule and a short blunt projection not more than 1.3 cm (0.5 in) in length on the opposite side of the ferrule and that is attached to a wooden handle that measures not less than 105 cm (3.4 ft) and not more than 153 cm (5 ft).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Picks and pickaxes"
+    ],
+    "source_title": "Hakapik",
+    "source_url": "https://en.wikipedia.org/wiki/Hakapik",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "doloire": {
+    "name": "Doloire",
+    "summary": "The doloire or wagoner's axe was a tool and weapon used during the Middle Ages and Renaissance. The axe had a wooden shaft measuring approximately 1.5 metres (5 feet) in length and a head that was pointed at the top and rounded at the bottom, resembling either a teardrop or an isosceles triangle. The top of the shaft was fitted with a metal eye or socket that was welded to the head of the axe near the base of the blade. The upper part of the blade extended above the eye, while the opposite side of the socket featured a small blunt hammer head. The head of the axe itself measured approximately 44 cm. (17 inches) in length, was sharpened on the back and flattened bottom edges, and was.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Doloire",
+    "source_url": "https://en.wikipedia.org/wiki/Doloire",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "chicken_sickles": {
+    "name": "Chicken sickles",
+    "summary": "Chicken sickles (traditional Chinese: 雞鐮; simplified Chinese: 鸡镰) are a number of Chinese bladed weapons similar to the hook sword and the Okinawan kama. They can be used as a single or double weapon. It is considered the special weapon of the xinyi liuhe style.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Picks and pickaxes"
+    ],
+    "source_title": "Chicken sickles",
+    "source_url": "https://en.wikipedia.org/wiki/Chicken_sickles",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "harpe": {
+    "name": "Harpe",
+    "summary": "The harpē (ἅρπη) is a type of sword- or sickle-like weapon mentioned in Greek and Roman sources, and almost always in mythological contexts.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Swords",
+      "Axe-like"
+    ],
+    "source_title": "Harpe",
+    "source_url": "https://en.wikipedia.org/wiki/Harpe",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bhuj_weapon": {
+    "name": "Bhuj (weapon)",
+    "summary": "A Kaat, Kāti, Kuttai also known as Bhuj is a type of knife or dagger from Sindh and Kutch district of Gujarat.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Axes"
+    ],
+    "source_title": "Bhuj (weapon)",
+    "source_url": "https://en.wikipedia.org/wiki/Bhuj_(weapon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "celurit": {
+    "name": "Celurit",
+    "summary": "A celurit or clurit is generally a sickle (sometimes other variants include the billhook) with a pronounced crescent-blade patterns which curves more than half a circle and a long handle, is widely used for agricultural purposes and also in Pencak Silat. When compared to the arit, the celurit is slightly larger.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Edged and bladed weapons",
+      "Fighting knives and daggers",
+      "Sickles and sickle like knives"
+    ],
+    "source_title": "Celurit",
+    "source_url": "https://en.wikipedia.org/wiki/Celurit",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "boomerang": {
+    "name": "Boomerang",
+    "summary": "A boomerang () is a thrown tool typically constructed with airfoil sections and designed to spin about an axis perpendicular to the direction of its flight, designed to return to the thrower. The origin of the word is from an Aboriginal Australian language of the Sydney region. Its original meaning, which is preserved in official competitions, refers only to returning objects, not to throwing sticks, which were also used for hunting by various peoples both in Australia and around the world. However, the term \"non-returning boomerang\" is also in general use. Various forms of boomerang-like designs were traditionally and in some cases are still used by some groups of Aboriginal Australians.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Boomerang",
+    "source_url": "https://en.wikipedia.org/wiki/Boomerang",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bokken": {
+    "name": "Bokken",
+    "summary": "A bokken (木剣, bok(u), 'wood', and ken, '(double-edged) sword') or bokutō (木刀, boku, 'wood', and tō, '(single-edged) sword') is a Japanese wooden sword used for training in kenjutsu. It is usually the size and shape of a katana, but is sometimes shaped like other swords, such as the wakizashi and tantō. Some ornamental bokken are decorated with mother-of-pearl work and elaborate carvings. Sometimes, it is spelled \"boken\" in English. Bokken are traditionally composed of red oak or white oak, although any hardwood can be used. In comparison, practice swords made of flexible, soft wood such as bamboo are referred to as shinai.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Bokken",
+    "source_url": "https://en.wikipedia.org/wiki/Bokken",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hammer": {
+    "name": "Hammer",
+    "summary": "A hammer is a tool, most often a hand tool, consisting of a weighted \"head\" fixed to a long handle that is swung to deliver an impact to a small area of an object. This can be, for example, to drive nails into wood, to shape metal (as with a forge), or to crush rock. Hammers are used for a wide range of driving, shaping, breaking and non-destructive striking applications. Traditional disciplines include carpentry, blacksmithing, warfare, and percussive musicianship (as with a gong). The modern hammer head is typically made of steel which has been heat treated for hardness, and the handle (also known as a haft or helve) is typically made of wood or plastic. Ubiquitous in framing, the claw.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Hammer",
+    "source_url": "https://en.wikipedia.org/wiki/Hammer",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "mace_bludgeon": {
+    "name": "Mace (bludgeon)",
+    "summary": "A mace is a blunt weapon, a type of club or virge that uses a heavy head on the end of a handle to deliver powerful strikes. A mace typically consists of a strong, heavy, wooden or metal shaft, often reinforced with metal, featuring a head made of stone, bone, copper, bronze, iron, or steel. The head of a mace can be shaped with flanges or knobs to increase the pressure of an impact by focusing the force on a small point. They would bind on metal instead of sliding around it, allowing them to deliver more force to an armored opponent than a traditional mace. This effect increased the potential for the mace to injure an armored opponent through weak spots in the armor, and even damage plate.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Mace (bludgeon)",
+    "source_url": "https://en.wikipedia.org/wiki/Mace_(bludgeon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hanbo": {
+    "name": "Hanbō",
+    "summary": "The hanbō (半棒, \"half-staff\") is a staff used in martial arts. Traditionally, the hanbō was approximately three shaku or about 90 centimetres (35 in) long, half the length of the usual staff, the rokushakubō (\"six shaku staff\"). Diameter was 2.4 to 3 centimetres (0.94 to 1.18 in). However, depending on the school the length and diameter varied. As with any weapon, bearers would often find one best suited to their build, opting often for one that comes up to about waist/hip height.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Hanbō",
+    "source_url": "https://en.wikipedia.org/wiki/Hanb%C5%8D",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "flail_weapon": {
+    "name": "Flail (weapon)",
+    "summary": "A flail is a weapon consisting of a striking head attached to a handle by a flexible rope, strap, or chain. The chief tactical virtue of the flail is its capacity to strike around a defender's shield or parry. Its chief liability is a lack of precision and the difficulty of using it in close combat, or closely-ranked formations. There are two broad types of flail: a long, two-handed infantry weapon with a cylindrical head, and a shorter weapon with a round metal striking head. The longer cylindrical-headed flail is a hand weapon derived from the agricultural tool of the same name, commonly used in threshing. It was primarily considered a peasant's weapon, and while not common, they were.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Flail (weapon)",
+    "source_url": "https://en.wikipedia.org/wiki/Flail_(weapon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bo": {
+    "name": "Bō",
+    "summary": "A bō (棒) (pong (Korean); pang (Cantonese); bang (Mandarin); kun (Okinawan)) is a staff weapon used in Okinawa. Rokushakubō are typically around 1.8 m (71 in) long and used in Okinawan martial arts and Japanese arts such as bōjutsu. Other staff-related weapons are the jō, which does not have a standard length, and the hanbō (half bō), which is 90 cm (35 in) long.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Bō",
+    "source_url": "https://en.wikipedia.org/wiki/B%C5%8D",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "jo": {
+    "name": "Jō",
+    "summary": "A jō (杖（じょう）) is an approximately 1.27-metre (4.2 ft) wooden staff, used in some Japanese martial arts. The martial art of wielding the jō is called jōjutsu or jōdō. Also, aiki-jō is a set of techniques in aikido which uses the jō to illustrate aikido's principles with a weapon. The jō staff is shorter than the six-foot rokushakubō. Today, the jō is still used by some Japanese police forces.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Jō",
+    "source_url": "https://en.wikipedia.org/wiki/J%C5%8D",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "club_weapon": {
+    "name": "Club (weapon)",
+    "summary": "A club (also known as a cudgel, baton, bludgeon, truncheon, cosh, nightstick, or impact weapon) is a short staff or stick, usually made of wood, wielded as a weapon or tool since prehistory. There are several examples of blunt-force trauma caused by clubs in the past, including at the site of Nataruk in Turkana, Kenya, described as the scene of a prehistoric conflict between bands of hunter-gatherers 10,000 years ago. Most clubs are small enough to be swung with one hand, although larger clubs may require the use of two to be effective. Various specialized clubs are used in martial arts and other fields, including the law-enforcement baton. The military mace is a more sophisticated.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Club (weapon)",
+    "source_url": "https://en.wikipedia.org/wiki/Club_(weapon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "mallet": {
+    "name": "Mallet",
+    "summary": "A mallet is a tool used for imparting force on another object, often made of rubber or sometimes wood, that is smaller than a maul or beetle, and usually has a relatively large head.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Mallet",
+    "source_url": "https://en.wikipedia.org/wiki/Mallet",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "crop_implement": {
+    "name": "Crop (implement)",
+    "summary": "A crop, sometimes called a riding crop or hunting crop, is a short type of whip without a lash, used in horse riding, part of the family of tools known as riding aids.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Crop (implement)",
+    "source_url": "https://en.wikipedia.org/wiki/Crop_(implement)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kanabo": {
+    "name": "Kanabō",
+    "summary": "The kanabō (金砕棒, kanasaibō), lit. 'metal stick' or 'metal club') is a spiked or studded two-handed war club used in feudal Japan by samurai. Other related weapons of this type are the nyoibō, konsaibō, tetsubō (鉄棒), and ararebō. Related solid iron weapons with no spikes or studs are the kanemuchi (or kanamuchi) and the aribo (also known as a gojo or kirikobo).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Kanabō",
+    "source_url": "https://en.wikipedia.org/wiki/Kanab%C5%8D",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "macana": {
+    "name": "Macana",
+    "summary": "The term macana, of Taíno origin, refers to various wooden weapons used by the various Indigenous cultures of Central and South America. These weapons were referred to as a hadzab or hats'ab in Yucatecan Mayan.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Macana",
+    "source_url": "https://en.wikipedia.org/wiki/Macana",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "aklys": {
+    "name": "Aklys",
+    "summary": "The aklys (Latin aclys, Greek agkulis) was a Roman javelin measuring approximately 2 m (79 in, 6.6 ft) in length, thrown with the aid of a leather strap or amentum, similar to a Swiss arrow. Every soldier was issued at least two. The term also applies to a small mace or club equipped with spikes, attached to one arm of the wielder by a strap of adjustable length to enable the weapon to be retrieved after it had been hurled at an enemy. Its use probably goes back to the Osci tribe of southern Italy. The weapon is also described as a dart and as a throwing stick or boomerang.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Aklys",
+    "source_url": "https://en.wikipedia.org/wiki/Aklys",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "canne_de_combat": {
+    "name": "Canne de combat",
+    "summary": "Canne de combat is a French combat sport. As weapon, it uses a canne or cane (a kind of walking-stick) designed for fighting. Canne de combat was standardized in the 1970s for sporting competition by Maurice Sarry. The canne is very light, made of chestnut wood and slightly tapered. A padded suit and a fencing mask are worn for protection.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Canne de combat",
+    "source_url": "https://en.wikipedia.org/wiki/Canne_de_combat",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kotiate": {
+    "name": "Kotiate",
+    "summary": "Kotiate is a type of traditional hand weapon of the Māori, the indigenous people of New Zealand. A kotiate is a short club normally made of wood or whalebone. Kotiate means to cut or divide the liver (koti = cut in two or divide; ate = liver), is probably taken from its shape, which resembles the lobed part of the human liver.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Kotiate",
+    "source_url": "https://en.wikipedia.org/wiki/Kotiate",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "gunstock_war_club": {
+    "name": "Gunstock war club",
+    "summary": "The gunstock club or gun stock war club is an Indigenous weapon used by many Native Americans and First Nations and named for its similar appearance to the wooden stocks of muskets and rifles of the time. Gunstock clubs were most predominantly used by Eastern Woodland and Plains tribes in the 18th and 19th centuries.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Gunstock war club",
+    "source_url": "https://en.wikipedia.org/wiki/Gunstock_war_club",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "macuahuitl": {
+    "name": "Macuahuitl",
+    "summary": "A macuahuitl is a Mesoamerican weapon consisting of a wooden sword with several embedded obsidian blades. The name is derived from the Nahuatl language and means \"hand-wood\". Its sides are embedded with prismatic blades traditionally made from obsidian, which is capable of producing an edge sharper than high quality steel razor blades. The macuahuitl was a standard close-combat weapon. Use of the macuahuitl as a weapon is attested from the first millennium CE, although specimens can be found in art dating to at least pre-classic times. By the time of the Spanish conquest, the macuahuitl was widely distributed in Mesoamerica. The weapon was used by different civilizations, including the.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Macuahuitl",
+    "source_url": "https://en.wikipedia.org/wiki/Macuahuitl",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "gada_mace": {
+    "name": "Gada (mace)",
+    "summary": "The gada (Sanskrit: गदा gadā, Kannada: ಗದೆ, Telugu: గద, Tamil: கதை, Malay: gedak, Old Tagalog: batuta) is a mallet or blunt mace from the Indian subcontinent. Made either of wood or metal, it consists essentially of a spherical head mounted on a shaft, with a spike on the top. Outside India, the gada was also adopted in Southeast Asia, where it is still used in silat. The gada is the main weapon of the Hindu God Hanuman. Known for his strength, Hanuman is traditionally worshipped by wrestlers in the Indian subcontinent and Southeast Asia. Vishnu also carries a gada named Kaumodaki in one of his four hands. In the epic Mahabharata, the fighters Balarama, Duryodhana, Bhima, Karna, Shalya,.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Gada (mace)",
+    "source_url": "https://en.wikipedia.org/wiki/Gada_(mace)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "cateia": {
+    "name": "Cateia",
+    "summary": "A cateia is an ancient European throwing weapon. Sources describe it similar to a boomerang and possibly related to the aklys.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Truncheons and blunt weapons"
+    ],
+    "source_title": "Cateia",
+    "source_url": "https://en.wikipedia.org/wiki/Cateia",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "halberd": {
+    "name": "Halberd",
+    "summary": "A halberd (also called halbard or halbert) is a two-handed polearm that was in prominent use from the 13th to 16th centuries. The halberd consists of an axe blade topped with a spike mounted on a long shaft. It may have a hook or thorn on the back of the axe blade for grappling mounted combatants and protecting allied soldiers, typically musketeers. The halberd was usually 2.0 to 2.5 metres (6.6 to 8.2 ft) long. The word halberd is cognate with the German word Hellebarde, deriving from Middle High German halm (handle) and barte (battleaxe) joined to form helmbarte. Troops that used the weapon were called halberdiers or halbardiers. The word has also been used to describe a weapon of the.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Halberd",
+    "source_url": "https://en.wikipedia.org/wiki/Halberd",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bill_weapon": {
+    "name": "Bill (weapon)",
+    "summary": "A bill is a class of agricultural implement used for trimming tree limbs, which was often repurposed for use as an infantry polearm. In English, the term 'Italian bill' is applied to the similar roncone or roncola, but the Italian version tended to have a long thrusting spike in addition to the cutting blade. The English distinguished among several varieties of bill, including the black, brown and forest bills, but the differences between them are currently not fully understood. Bills were adapted to military use through addition of various projecting blades. Other variants include the bill hook and bill-guisarme.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Bill (weapon)",
+    "source_url": "https://en.wikipedia.org/wiki/Bill_(weapon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "ahlspiess": {
+    "name": "Ahlspiess",
+    "summary": "The ahlspiess (or awl pike) was a thrusting spear developed and used primarily in Germany and Austria from the 15th to 16th centuries. The ahlspiess consisted of a long thin spike of square cross section measuring up to about a metre (39 inches) in length, mounted on a round wooden shaft and sometimes secured with a pair of langets extending from the socket. The length of the shaft ranged from 1.6 to 1.8 m. (5 - 6 feet), and located at the base of the spike was a rondel guard (a circular metal plate) to protect the hands. Large numbers of these weapons have survived and are kept in the arsenal and museums of Vienna as well as the Metropolitan Museum of Art. Some ahlspiesse have thicker.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Ahlspiess",
+    "source_url": "https://en.wikipedia.org/wiki/Ahlspiess",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "glaive": {
+    "name": "Glaive",
+    "summary": "A glaive, sometimes spelled as glave, is a type of pole weapon, with a single-edged blade on the end, known for its distinctive design and versatile combat applications. There are many similar polearms such as the war scythe, the Japanese naginata, the Chinese guandao (yanyuedao), the Korean woldo, and the Russian sovnya. A glaive typically consists of a single-edged blade approximately 45 centimeters long affixed to a pole measuring about 2 meters. The blade is secured in a socket-shaft configuration, akin to an axe head, as opposed to having a tang like a sword or naginata. Some variations of glaive blades were even forged with a small hook on the reverse side to better engage mounted.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Glaive",
+    "source_url": "https://en.wikipedia.org/wiki/Glaive",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "guisarme": {
+    "name": "Guisarme",
+    "summary": "A guisarme (sometimes gisarme, giserne or bisarme) is a polearm used in Europe primarily between 1000 and 1400. Its origin is likely Germanic, from the Old High German getīsarn, literally \"weeding iron\". Like many medieval polearms, the exact early form of the weapon is hard to define from literary references, and the identification of surviving weapons can be speculative.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Guisarme",
+    "source_url": "https://en.wikipedia.org/wiki/Guisarme",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "fauchard": {
+    "name": "Fauchard",
+    "summary": "A fauchard is a type of polearm which was used in Europe from the 11th through the 17th centuries. In later use fauchards became ornamental and ceremonial (fauchard de parade), growing in size until some examples were almost too heavy to carry, let alone use. The design consisted of a curved blade atop a long pole, although in some portrayals, it is shown on a shorter pole. The blade bore a moderate to strong curve along its length. The cutting edge was only on the convex side of the blade, unlike the guisarme or bill. The fauchard was likely developed from the war scythe (and is from the scythe (falx) family in general) with the cutting edge turned opposite, convex instead of concave, so.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Fauchard",
+    "source_url": "https://en.wikipedia.org/wiki/Fauchard",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "brandistock": {
+    "name": "Brandistock",
+    "summary": "A brandistock (also called brandestoc, buttafuori or feather staff) was a short type of polearm which was used by both infantry and civilians alike, primarily police officers in Italy between the 16th and 19th centuries. Measuring some 1.5 meters (5 ft) long, the brandistock construction was unique for polearms in that it had a retractable blade; the weapon was able to be covertly carried as a walking staff. The head consisted of either a single or a trio of long thin points, which were kept in a hollow aperture inside the rest of the shaft. The blades would often be triangular or diamond-shaped. A sharp thrust of the weapon forward propelled the heads out, where they could be readily.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Brandistock",
+    "source_url": "https://en.wikipedia.org/wiki/Brandistock",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bec_de_corbin": {
+    "name": "Bec de corbin",
+    "summary": "A bec de corbin (Modern French: Bec de corbeau, [bɛk də kɔʁ.bo]) is a type of polearm and war hammer that was popular in late medieval Europe. The name is Old French for \"raven's beak\". Similar to the Lucerne hammer, it consists of a modified hammer's head and spike mounted atop a long pole. Unlike the Lucerne hammer, the bec de corbin was used primarily with the \"beak\" or fluke to attack instead of the hammer head. The hammer face balancing the beak was often blunt instead of the multi-pronged Lucerne, and the beak tended to be stouter; better designed for tearing into plate armor, mail, or gambeson. Nonetheless, some becs-de-corbin also had a multi-pronged hammer. The spike mounted on the.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Bec de corbin",
+    "source_url": "https://en.wikipedia.org/wiki/Bec_de_corbin",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "arbir": {
+    "name": "Arbir",
+    "summary": "An Arbir is an Indonesian weapon, a glaive, approximately 5 ft (1.5 m) long. The staff has a shallow groove running along its length marking the plane of the blade, allowing the user to determine exactly where the cutting edge is at all times. The Arbir is one of three special weapons used by members of the Persatuan Pencak Silat Seluruh Indonesia (PPSI).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Arbir",
+    "source_url": "https://en.wikipedia.org/wiki/Arbir",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dagger_axe": {
+    "name": "Dagger-axe",
+    "summary": "The dagger-axe (Chinese: 戈; pinyin: gē; Wade–Giles: ko) is a type of polearm that was in use from the Longshan culture until the Han dynasty in China. It consists of a dagger-shaped blade, mounted by its tang to a perpendicular wooden shaft. The earliest dagger-axe blades were made of stone. Later versions used bronze. Jade versions were also made for ceremonial use. There is a variant type with a divided two-part head, consisting of the usual straight blade and a scythe-like blade.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Dagger-axe",
+    "source_url": "https://en.wikipedia.org/wiki/Dagger-axe",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hasta_spear": {
+    "name": "Hasta (spear)",
+    "summary": "The hasta (pl.: hastae) was the spear carried by early Roman legionaries, for which the Roman soldiers known as hastati were named. In later republican times, the hastati were re-armed with pila and gladii, and the hasta was only retained by the triarii. The hasta would also be reintroduced in the Late Roman army in conjunction with the spatha. Unlike the pilum, verutum and lancea, the hasta was not thrown, but used for thrusting. It was about 2.4 metres (7.9 ft) in length, with a shaft generally made from ash, while the head was of iron. Hasta also referred to a spear that was a gymnastic weapon. The hasta praepilata was a spear with its point either covered by a ball or muffled. This type.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Hasta (spear)",
+    "source_url": "https://en.wikipedia.org/wiki/Hasta_(spear)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "eku": {
+    "name": "Eku",
+    "summary": "An eku (sometimes spelled eiku or ieku) is an ancient weapon of Okinawan kobudō. Its first intended purpose is as an oar.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Blunt staves"
+    ],
+    "source_title": "Eku",
+    "source_url": "https://en.wikipedia.org/wiki/Eku",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dory_spear": {
+    "name": "Dory (spear)",
+    "summary": "The dory or doru (; Greek: δόρυ) was the chief spear of hoplites (heavy infantry) in Ancient Greece. A small dory was called doration (δοράτιον). The word doru is first attested in the Homeric epics with the meanings of \"wood\" and \"spear\". Homeric heroes hold two dorata (Greek: δόρατα, plural of δόρυ) (Il. 11,43, Od. 1, 256). The spear used by the Persian army under Darius I and Xerxes in their respective campaigns during the Greco-Persian Wars was shorter than that of their Greek opponents. The dory's length enabled multiple ranks of a formation to engage simultaneously during combat. The dory was not intended for throwing, such as a dart or javelin. However, its aerodynamic shape allowed.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Dory (spear)",
+    "source_url": "https://en.wikipedia.org/wiki/Dory_(spear)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hoko_yari": {
+    "name": "Hoko yari",
+    "summary": "Hoko (矛) or Hoko yari is an ancient form of yari (lance) from Japan said to be based on a Chinese model. The hoko came into use sometime between the Yayoi and the Heian, possibly as late as the Nara period (the 8th century).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Hoko yari",
+    "source_url": "https://en.wikipedia.org/wiki/Hoko_yari",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "korean_spears": {
+    "name": "Korean spears",
+    "summary": "Over time, various types of Korean spears have developed and evolved. The designs are similar to those of spears found elsewhere in Asia and the world, as much due to a process of convergent evolution as to external influence.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Korean spears",
+    "source_url": "https://en.wikipedia.org/wiki/Korean_spears",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "atgeir": {
+    "name": "Atgeir",
+    "summary": "An atgeir was a type of polearm in use in Viking Age Scandinavia and Norse colonies in the British Isles and Iceland. The word atgeirr is older than the Viking Age, and cognates can be found in Old English and other Germanic dialects (atiger, setgare, aizger), deriving from the Germanic root gar, and is related to the Old Norse geirr, meaning spear. Atgeirr is often translated in English as \"halberd\", however Germanic weapon names in gar designate a heavy spear, while geirr is just a common name for any spear in Old Norse, thus the atgeirr is \"a weapon closely related to a spear – something long-shafted and thrust-oriented\". The word at prefixed to the weapon's name is used in poetry for.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Atgeir",
+    "source_url": "https://en.wikipedia.org/wiki/Atgeir",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dangpa": {
+    "name": "Dangpa",
+    "summary": "Dangpa (Korean: 당파) is the Korean name for a Ranseur (three-pronged trident-like spear) first described in the Muyejebo, a Korean martial arts manual of the Joseon Dynasty (published 1610).",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Spears"
+    ],
+    "source_title": "Dangpa",
+    "source_url": "https://en.wikipedia.org/wiki/Dangpa",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "gun_staff": {
+    "name": "Gun (staff)",
+    "summary": "A gun (pronunciation [kwə̂n], English approximation: gwən, Chinese: 棍; pinyin: gùn; Jyutping: gwan3; lit. 'rod', 'stick') or bang (Chinese: 棒; pinyin: bàng; Jyutping: paang5; lit. 'rod', 'club') is a long staff weapon used in Chinese martial arts. It is known as one of the four major weapons in Chinese martial arts, along with the qiang (spear), dao (sabre), and the jian (straight sword). It is called, in this group, \"The Grandfather of all Weapons\". In Vietnam (as a result of Chinese influence), the gun is known as côn in Vietnamese martial arts.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Blunt staves"
+    ],
+    "source_title": "Gun (staff)",
+    "source_url": "https://en.wikipedia.org/wiki/Gun_(staff)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "epsilon_axe": {
+    "name": "Epsilon axe",
+    "summary": "The epsilon axe is a type of battle axe named for its similarity to the Greek letter epsilon (ϵ). The epsilon axe was widely used throughout the Middle East, its usage spread from there and grew in popularity to be used in eastern Europe and Russia as well as the Nordic countries. The axe is also depicted in Egyptian hieroglyphs with the warrior carrying both the epsilon axe and a shield thus leaving some to believe that this weapon was used also as a one handed weapon. Bronze examples of the Assyrian design are kept in the British Museum. Some historians have called the epsilon axe the \"poor man's\" khopesh, it is possible that the epsilon axe would be assigned to less valuable or.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Epsilon axe",
+    "source_url": "https://en.wikipedia.org/wiki/Epsilon_axe",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "jedwart_stave": {
+    "name": "Jedwart stave",
+    "summary": "The Jedwart stave (called the Jeddart or Jedburgh stave) was a polearm weapon commonly found in the Scottish Borders in the 16th century. It consisted of a large, thin, double-edged axe-like blade attached to a roughly four-foot long studded stave with a hand guard, similar in appearance to a bardiche. The upheaval of the sixteenth century in the borders proved the weapon to be too light to be effective against the heavy cavalry of the Border Reivers and attacks from the English, and it fell out of favour in combat. It remained however a common household weapon for purpose of self-defence.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with axe-like blades"
+    ],
+    "source_title": "Jedwart stave",
+    "source_url": "https://en.wikipedia.org/wiki/Jedwart_stave",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "knout": {
+    "name": "Knout",
+    "summary": "A knout (Russian: кнут, Russian pronunciation: [knut]) is a Russian whip that consists of a rawhide thong or a rope attached to a long wooden handle. Commonly used for prodding horses or cattle, knouts were also used for flagellation as a corporal punishment in Russian history. The English word is a spelling-pronunciation of a French transliteration of the Russian word кнут (knut), which means \"whip\".",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Whips"
+    ],
+    "source_title": "Knout",
+    "source_url": "https://en.wikipedia.org/wiki/Knout",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "lasso": {
+    "name": "Lasso",
+    "summary": "A lasso or lazo ( or ), also called reata or la reata in Mexico, and in the United States riata or lariat (from Mexican Spanish lasso for roping cattle), is a loop of rope designed as a restraint to be thrown around a target and tightened when pulled. It is a well-known tool of the Mexican and South American cowboys, which was then adopted from the Mexicans by the cowboys of the United States. The word is also a verb; to lasso is to throw the loop of rope around something.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Chains and ropes"
+    ],
+    "source_title": "Lasso",
+    "source_url": "https://en.wikipedia.org/wiki/Lasso",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "buckler": {
+    "name": "Buckler",
+    "summary": "A buckler (French bouclier 'shield', from Old French bocle, boucle 'boss') is a small shield, up to 45 cm (up to 18 in) in diameter, gripped in the fist with a central handle behind the boss. It became more common as a companion weapon in hand-to-hand combat during the Medieval and Renaissance periods. Its size made it poor protection against missile weapons (e.g., arrows) but useful in deflecting the blow of an opponent's weapons, binding their arms, hindering their movements, or punching them. The seminal study of the topic has been undertaken by Herbert Schmidt and has devised the following typology: Type I: round Type II: rectangular or trapezoidal Type III: oval or teardrop shaped with.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Buckler",
+    "source_url": "https://en.wikipedia.org/wiki/Buckler",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kusarigama": {
+    "name": "Kusarigama",
+    "summary": "A kusarigama (Japanese: 鎖鎌; lit. \"chain-sickle\") is a traditional Japanese weapon that consists of a kama (the Japanese equivalent of a sickle or billhook) on a kusari-fundo – a type of metal chain (kusari) with a heavy iron weight (fundo) at the end. The kusarigama is said to have been developed during the Muromachi period. The art of handling the kusarigama is called kusarigamajutsu.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Chains and ropes"
+    ],
+    "source_title": "Kusarigama",
+    "source_url": "https://en.wikipedia.org/wiki/Kusarigama",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bullwhip": {
+    "name": "Bullwhip",
+    "summary": "A bullwhip is a single-tailed whip, usually made of braided leather or nylon, designed as a tool for working with livestock or for competition cracking. Bullwhips are pastoral tools, traditionally used to control livestock in open country. A bullwhip's length, flexibility, and tapered design allows it to be thrown in such a way that, toward the end of the throw, part of the whip exceeds the speed of sound—thereby creating a small sonic boom. The bullwhip was rarely, if ever, used to strike cattle, as this could inflict damage to the animal. Instead, the whip was cracked near the animal to startle and guide them, encouraging movement in the desired direction. The cracking sound is of a sonic.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Whips"
+    ],
+    "source_title": "Bullwhip",
+    "source_url": "https://en.wikipedia.org/wiki/Bullwhip",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "cat_o_nine_tails": {
+    "name": "Cat o' nine tails",
+    "summary": "The cat o' nine tails, commonly shortened to the cat, is a type of multi-tailed whip or flail. It originated as an implement for physical punishment, particularly in the Royal Navy and British Army, and as a judicial punishment in Britain and some other countries.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Whips"
+    ],
+    "source_title": "Cat o' nine tails",
+    "source_url": "https://en.wikipedia.org/wiki/Cat_o%27_nine_tails",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "lucerne_hammer": {
+    "name": "Lucerne hammer",
+    "summary": "The Lucerne hammer ( loo-SURN) is a polearm that combines a multi-pronged hammer, a long rear spike (bec or beak) and an even longer top spike. It was carried chiefly by the civic and cantonal forces of the Old Swiss Confederacy from the late 15th through the 17th centuries and takes its modern name from the large concentration of surviving examples found in the armoury of Lucerne.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Polearms and spears",
+      "Polearms with spikes and hammers"
+    ],
+    "source_title": "Lucerne hammer",
+    "source_url": "https://en.wikipedia.org/wiki/Lucerne_hammer",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "lantern_shield": {
+    "name": "Lantern shield",
+    "summary": "The lantern shield is a small shield combined with a lantern used during the Italian Renaissance (15th and 16th century Italy) especially for night time duels. A number of specimens survive. Their defining feature is a small circular shield – a buckler – combined with a lantern, or a hook from which to hang a lantern, intended to blind the opponent at night or in duels fought at dawn. Some more elaborate examples might incorporate gauntlets, spikes, sword blades, and also a mechanism to alternatively darken or release the light of the lantern. The most peculiar example is the one now kept at the Kunsthistorisches Museum in Vienna, made in the 1540s. Swordsmen dueling at dawn are reported to.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Lantern shield",
+    "source_url": "https://en.wikipedia.org/wiki/Lantern_shield",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hungarian_shield": {
+    "name": "Hungarian shield",
+    "summary": "A Hungarian (or Hungarian-style) shield was a specific form of targe. It was rectangular at the bottom, but the upper edge swept upward forming a curve. The elongated upper edge was designed to protect the head and neck against sabre cuts. They were characteristic for the Hungarian light cavalry. During the 16th century, the design became popular across much of eastern Europe, among both Christian and Muslim horsemen. In contrast, the 15th-century German Gladiatoria fechtbuch depicts what it calls ungrischer schilt used by two fencers on foot. The upward sweeping edge is less pronounced to the point of symmetry. A point is attached to the lower (hand-side) edge, apparently for offensive.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Hungarian shield",
+    "source_url": "https://en.wikipedia.org/wiki/Hungarian_shield",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "chain_whip": {
+    "name": "Chain whip",
+    "summary": "The chain whip, also known as the soft whip, is a weapon used in some Chinese martial arts, particularly traditional Chinese disciplines, in addition to modern and traditional wushu. It consists of several metal rods, which are joined end-to-end by rings to form a flexible chain. Generally, the whip has a handle at one end and a metal dart, used for slashing or piercing an opponent, at the other. A cloth flag is often attached at or near the dart end of the whip and a second flag may cover the whip's handle. The flag or flags adds visual appeal and produces a rushing sound as the whip swings through the air. The rushing noise also helps the user with identifying the location of the other.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Whips"
+    ],
+    "source_title": "Chain whip",
+    "source_url": "https://en.wikipedia.org/wiki/Chain_whip",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kusari_fundo": {
+    "name": "Kusari-fundo",
+    "summary": "Kusari-fundo (鎖分銅) is a handheld weapon used in feudal Japan consisting of a length of chain (kusari) with a weight (fundo) attached to each end of the chain. Various sizes and shapes of chain and weight were used as there was no set rule on the construction of these weapons. Other popular names are manrikigusari (萬力鏈) (lit. 'ten-thousand-power chain') or just manriki.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Chains and ropes"
+    ],
+    "source_title": "Kusari-fundo",
+    "source_url": "https://en.wikipedia.org/wiki/Kusari-fundo",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kite_shield": {
+    "name": "Kite shield",
+    "summary": "A kite shield is a large, almond-shaped shield rounded at the top and curving down to a point or rounded point at the bottom. The term \"kite shield\" is a reference to the shield's unique shape, and is derived from its supposed similarity to a flying kite, although \"leaf-shaped shield\" and \"almond shield\" have also been used in recent literature. Since the most prominent examples of this shield have appeared on the Bayeux Tapestry, the kite shield has become closely associated with Norman warfare.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Kite shield",
+    "source_url": "https://en.wikipedia.org/wiki/Kite_shield",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "aspis": {
+    "name": "Aspis",
+    "summary": "An aspis (Ancient Greek: ἀσπίς; pl.: aspides, ἀσπίδες) or porpax shield was the heavy wooden shield used by the infantry in various periods of ancient Greece.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Aspis",
+    "source_url": "https://en.wikipedia.org/wiki/Aspis",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kyoketsu_shoge": {
+    "name": "Kyoketsu-shoge",
+    "summary": "The kyoketsu-shoge (Japanese: 距跋渉毛; lit. \"long-distance wandering hair\") is a double-edged blade, with another curved blade attached near the hilt at a 45–60 degree angle. This is attached to approximately 10 to 18 feet (3–5 m) of rope, chain, or hair which then ends in a large metal ring. Likely used by ninja of the Iga province, it is thought to be a forerunner to the later more widely known kusarigama (sickle and chain). Ninja were often recruited from the class of rural peasantry who resided on remote farmland, and the tool's resemblance to farming equipment and high versatility gave it many benefits in stealth combat. The kyoketsu-shoge has a wide range of uses. The blade could be used.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Chains and ropes"
+    ],
+    "source_title": "Kyoketsu-shoge",
+    "source_url": "https://en.wikipedia.org/wiki/Kyoketsu-shoge",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "clipeus": {
+    "name": "Clipeus",
+    "summary": "In the military of classical antiquity, a clipeus (Latin: [ˈklɪpeʊs̠]; Ancient Greek: ἀσπίς) was a large shield worn by the Greek hoplites and Romans as a piece of defensive armor, which they carried upon the arm, to protect them from the blows of their enemies. It was round in shape and in the middle was a bolt of iron, or of some other metal, with a sharp point. The clipeus was more-or-less identical to the earlier aspis.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Clipeus",
+    "source_url": "https://en.wikipedia.org/wiki/Clipeus",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "chigiriki": {
+    "name": "Chigiriki",
+    "summary": "The chigiriki (契木) is a Japanese flail weapon. It consists of a solid or hollow wood (sometimes bamboo) or iron staff with an iron weight and chain on the end, sometimes retractable. The chigiriki is a more aggressive variation of the parrying weapon kusarigama. It can be used to strike or entangle the opponent as well as to parry his blows and to capture or incapacitate an opponent's weapon. The stick can be as long as the wielder's forearm or longer, while the length of the chain could also be of various lengths. The iron weight could have spikes and its shape could be round or be multi sided. Its origin is not clearly known. Chigiriki belong to the furi-zue family of weapons.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Chains and ropes"
+    ],
+    "source_title": "Chigiriki",
+    "source_url": "https://en.wikipedia.org/wiki/Chigiriki",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "heater_shield": {
+    "name": "Heater shield",
+    "summary": "The heater shield or heater-shaped shield is a form of European medieval shield, developing from the early medieval kite shield in the late 12th century in response to the declining importance of the shield in combat thanks to improvements in leg armour. The term is a neologism, created by Victorian antiquarians due to the shape's resemblance to a clothes iron. Examples are depicted in the great seal of Richard I and John, King of England.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Heater shield",
+    "source_url": "https://en.wikipedia.org/wiki/Heater_shield",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "flying_claws": {
+    "name": "Flying claws",
+    "summary": "The flying claw, flying talon, or soft talon (Chinese: 飛爪; pinyin: fēizhuǎ / fēizhǎo) is used to ensnare a foe and throw him off balance. It originated in China during the Sui dynasty and is one of the flexible or soft weapons in the Chinese martial arts. It features metal hand or claw on the end of a chain or rope. It is in the same family as the meteor hammer, rope dart, and chain whip. First appearing during the Ming dynasty (1368 – 1644 A.C.E.), the (shuang fei zhua) claw consists of two iron eagle claws attached together by a length of rope, much like a flying weight. These claws, however, were not fixed like a grappling hook, but rather were designed to grab the adversary upon contact.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Chains and ropes"
+    ],
+    "source_title": "Flying claws",
+    "source_url": "https://en.wikipedia.org/wiki/Flying_claws",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "buntot_pagi": {
+    "name": "Buntot Pagi",
+    "summary": "Buntot pagi or stingray tail is a type of Filipino whiplike weapon. It is most known for fighting and warding off aswangs and other similar mythical creatures in Philippine folklore. In actual combat, a Buntot Pagi is often used with a balaraw or a short knife or sword. The weapon is also used in dambana practices as a form of curse deflector.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Flexible weapons",
+      "Whips"
+    ],
+    "source_title": "Buntot Pagi",
+    "source_url": "https://en.wikipedia.org/wiki/Buntot_Pagi",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dhal_shield": {
+    "name": "Dhal (shield)",
+    "summary": "The dhal is a type of buckler or shield found in the Indian subcontinent. They are nearly always geometrically round and yet they vary in diameter from about eight inches to twenty-four inches. Some are nearly flat while others are strongly convex or curved. The edges may be flat or rolled back in the reverse direction to that of the curvature of the shield. Dhal shields were either made from metal or hide.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Dhal (shield)",
+    "source_url": "https://en.wikipedia.org/wiki/Dhal_(shield)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "english_longbow": {
+    "name": "English longbow",
+    "summary": "The English longbow was a powerful medieval type of bow, about 6 ft (1.8 m) long. While it is debated whether it originated in England or in Wales from the Welsh bow, by the 14th century the longbow was being used by both the English and the Welsh as a weapon of war and for hunting. English longbows were effective against the French during the Hundred Years' War, particularly in the battles of Sluys (1340), Crécy (1346), Poitiers (1356), and Agincourt (1415). They were less successful later on, as longbowmen had their lines broken at the Battle of Verneuil (1424), although the English won a decisive victory there; they were completely routed at the Battle of Patay (1429) when they were.",
+    "signals": [
+      "Bows",
+      "Longbows"
+    ],
+    "source_title": "English longbow",
+    "source_url": "https://en.wikipedia.org/wiki/English_longbow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "branch": {
+    "name": "Branch",
+    "summary": "A branch, also called a ramus in botany, is a stem that grows off from another stem, or when structures like veins in leaves are divided into smaller veins.",
+    "signals": [
+      "Thrown",
+      "Throwing sticks"
+    ],
+    "source_title": "Branch",
+    "source_url": "https://en.wikipedia.org/wiki/Branch",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "arbalest": {
+    "name": "Arbalest",
+    "summary": "The arbalest (also arblast), a variation of the crossbow, came into use in Europe around the 12th century. The arbalest was a large weapon with a steel prod, or bow assembly. Since the arbalest was much larger than earlier crossbows, and because of the greater tensile strength of steel, it had a greater force. The greater draw weight was offset by a shorter draw length, which limited the total potential energy that could be transferred into the crossbow bolt. A skilled arbalestier (arbalester) could loose two bolts per minute.",
+    "signals": [
+      "Crossbows"
+    ],
+    "source_title": "Arbalest",
+    "source_url": "https://en.wikipedia.org/wiki/Arbalest",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "harpoon": {
+    "name": "Harpoon",
+    "summary": "A harpoon is a long, spear-like projectile used in fishing, whaling, sealing, and other hunting to shoot, kill, and capture large fish or marine mammals such as seals, sea cows, and whales. It impales the target and secures it with barb or toggling claws, allowing the fishermen or hunters to use an attached rope or chain to pull and retrieve the animal. A harpoon can also be used as a ranged weapon against other watercraft in naval warfare. Certain harpoons are made with different builds to perform better with the type of target. For example, the Inuit have short, fixed-foreshaft harpoons for hunting at breathing holes, while loose-shafted ones are made for throwing and remaining attached.",
+    "signals": [
+      "Thrown",
+      "Throwing spears"
+    ],
+    "source_title": "Harpoon",
+    "source_url": "https://en.wikipedia.org/wiki/Harpoon",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bolas": {
+    "name": "Bolas",
+    "summary": "Bolas or bolases (sg.: bola; from Spanish and Portuguese bola, \"ball\", also known as a boleadora or boleadeira) is a type of throwing weapon made of weights on the ends of interconnected cords, used to capture animals by entangling their legs. Bolas were most famously used by the gauchos, but have been found in excavations of Pre-Columbian settlements, especially in Patagonia, where indigenous peoples (particularly the Tehuelche) used them to catch 200-pound guanacos and rheas. The Mapuche and the Inca army used them in battle. Mapuche warriors used bolas in their confrontations with the Chilean Army during the Occupation of Araucanía (1861–1883).",
+    "signals": [
+      "Thrown",
+      "Throwing balls"
+    ],
+    "source_title": "Bolas",
+    "source_url": "https://en.wikipedia.org/wiki/Bolas",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "chakram": {
+    "name": "Chakram",
+    "summary": "The chakram (Sanskrit: cakra, cakram; Punjabi: cakkra, cakkram) is a throwing weapon from the Indian subcontinent. It is circular with a sharpened outer edge and a diameter of 12–30 centimetres (4+1⁄2–12 inches). It is also known as chalikar meaning \"circle\", and was sometimes referred to in English writings as a \"war-quoit\". The chakram is primarily a throwing weapon, but can also be used hand-to-hand. A smaller variant called chakri is worn on the wrist. A related weapon is the chakri dong, a bamboo staff with a chakri attached at one end.",
+    "signals": [
+      "Thrown",
+      "Throwing blades and darts"
+    ],
+    "source_title": "Chakram",
+    "source_url": "https://en.wikipedia.org/wiki/Chakram",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "composite_bow": {
+    "name": "Composite bow",
+    "summary": "A composite bow is a bow made from many different materials. Composite bows can be made from any combination of horn, antler, bamboo, wood, or sinew. These materials are typically laminated together with glue. Materials such as horn or antler are added to composite bows because they have extraordinary compression strength, which compliments the equally phenomenal tensile strength of sinew. This greatly increases the energy-storing potential of a composite bow, relative to its length. Composite bows are able to be drawn to the same length as bows that are much larger, making them more efficient. However, it is very difficult and time consuming to make a composite bow, and the finished bow is.",
+    "signals": [
+      "Bows",
+      "Recurve bows"
+    ],
+    "source_title": "Composite bow",
+    "source_url": "https://en.wikipedia.org/wiki/Composite_bow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kunai": {
+    "name": "Kunai",
+    "summary": "A kunai (苦無, kunai) is a Japanese multipurpose tool thought to be originally derived from the masonry trowel.",
+    "signals": [
+      "Thrown",
+      "Throwing blades and darts"
+    ],
+    "source_title": "Kunai",
+    "source_url": "https://en.wikipedia.org/wiki/Kunai",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "francisca": {
+    "name": "Francisca",
+    "summary": "The francisca (or francesca) was a throwing axe used as a weapon during the Early Middle Ages by the Franks, among whom it was a characteristic national weapon at the time of the Merovingians (about 500 to 750 AD). It is known to have been used during the reign of Charlemagne (768–814). Although generally associated with the Franks, it was also used by other Germanic peoples of the period, including the Anglo-Saxons; several examples have been found in England.",
+    "signals": [
+      "Thrown",
+      "Throwing axes"
+    ],
+    "source_title": "Francisca",
+    "source_url": "https://en.wikipedia.org/wiki/Francisca",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "dart_missile": {
+    "name": "Dart (missile)",
+    "summary": "Darts are airborne ranged weapons. They are designed to fly such that a sharp, often weighted point will strike first. They can be distinguished from javelins by the presence of fletching (feathers on the tail) and a shaft that is shorter or more flexible. Darts can be propelled by hand or with the aid of a hand-held implement such as a blowgun. They can be distinguished from arrows because they are not used with a bow. Darts have been used since pre-history. The plumbatae were lead-weighted darts thrown by infantrymen in Antiquity and the Middle Ages. Darts can be propelled by a number of means. The atlatl uses leverage to increase the velocity of the dart, the kestros increases the range.",
+    "signals": [
+      "Thrown",
+      "Throwing blades and darts"
+    ],
+    "source_title": "Dart (missile)",
+    "source_url": "https://en.wikipedia.org/wiki/Dart_(missile)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "assegai": {
+    "name": "Assegai",
+    "summary": "An assegai or assagai is a polearm used for throwing, usually a light spear or javelin made up of a wooden handle with an iron tip.",
+    "signals": [
+      "Thrown",
+      "Throwing spears"
+    ],
+    "source_title": "Assegai",
+    "source_url": "https://en.wikipedia.org/wiki/Assegai",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "flatbow": {
+    "name": "Flatbow",
+    "summary": "A flatbow is a bow with non-recurved, flat, relatively wide limbs that are approximately rectangular in cross-section. Because the limbs are relatively wide, flatbows will usually narrow and become deeper at the handle, with a rounded, non-bending handle for easier grip. This design differs from that of a longbow, which has rounded limbs that are circular or D-shaped in cross-section, and is usually widest at the handle. A flatbow can be just as long as a longbow, but can also be very short. Typical lengths would be 68–70 inches (172.5–178 cm) for a flatbow, 70–72 inches (178–183 cm) for an English longbow, and 72–76 inches (183–193 cm) for a warbow-weight English longbow; but these styles.",
+    "signals": [
+      "Bows",
+      "Longbows"
+    ],
+    "source_title": "Flatbow",
+    "source_url": "https://en.wikipedia.org/wiki/Flatbow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "kestros_weapon": {
+    "name": "Kestros (weapon)",
+    "summary": "A kestros (Greek: κέστρος) or kestrophendone (Greek: κεστροσφενδόνη), respectively Latinized as cestrus or cestrosphendone, is a specially designed sling that is used to throw a heavy dart. The dart would typically consist of a heavy metal point approximately 23 cm (9.1 in) long, attached to a shaft of wood, typically 30 cm (12 in) long, and fletched with feathers or similar materials to provide stability of flight.",
+    "signals": [
+      "Slings"
+    ],
+    "source_title": "Kestros (weapon)",
+    "source_url": "https://en.wikipedia.org/wiki/Kestros_(weapon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hurlbat": {
+    "name": "Hurlbat",
+    "summary": "A hurlbat (or whirlbat, whorlbat) is a weapon of unclear original definition. Older reference works refer to it largely as a type of club, either held in the hand or thrown. Modern usage appears to refer to a type of throwing axe.",
+    "signals": [
+      "Thrown",
+      "Throwing axes"
+    ],
+    "source_title": "Hurlbat",
+    "source_url": "https://en.wikipedia.org/wiki/Hurlbat",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "javelin": {
+    "name": "Javelin",
+    "summary": "A javelin is a light spear designed primarily to be thrown, historically as a ranged weapon. Today, the javelin is predominantly used for sporting purposes such as the javelin throw. The javelin is nearly always thrown by hand, unlike the sling, bow, and crossbow, which launch projectiles with the aid of a hand-held mechanism. However, devices do exist to assist the javelin thrower in achieving greater distances, such as spear-throwers or the amentum. A warrior or soldier armed primarily with one or more javelins is a javelineer. The word javelin comes from Middle English and it derives from Old French javelin, a diminutive of javelot, which meant spear. The word javelot probably originated.",
+    "signals": [
+      "Thrown",
+      "Throwing spears"
+    ],
+    "source_title": "Javelin",
+    "source_url": "https://en.wikipedia.org/wiki/Javelin",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "falarica": {
+    "name": "Falarica",
+    "summary": "Falarica, also phalarica, was an ancient Iberian ranged polearm that was sometimes used as an incendiary weapon.",
+    "signals": [
+      "Thrown",
+      "Throwing spears"
+    ],
+    "source_title": "Falarica",
+    "source_url": "https://en.wikipedia.org/wiki/Falarica",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "cable_backed_bow": {
+    "name": "Cable-backed bow",
+    "summary": "A cable-backed bow is a bow reinforced with a cable on the back. The cable is made from either animal, vegetable or synthetic fibers and is tightened to increase the strength of the bow. A cable will relieve tension stress from the back of the bow by raising its neutral plane: the border between the back of the bow that stretches and the belly of the bow that compresses when bent. A good cable-backed bow can thus be made of poor-quality wood, weak in tension. The material, the diameter, the distance from the back of the wooden element, and the level of stress (tightness) of the cable determines how much it relieves tension stress from the wooden element of the bow and increases the power of.",
+    "signals": [
+      "Bows",
+      "Recurve bows"
+    ],
+    "source_title": "Cable-backed bow",
+    "source_url": "https://en.wikipedia.org/wiki/Cable-backed_bow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "angon": {
+    "name": "Angon",
+    "summary": "The angon (Medieval Greek ἄγγων, Old High German ango, Old English anga \"hook, point, spike\") is a type of javelin that was used during the Early Middle Ages by the Anglo-Saxons, Franks, Goths, and other Germanic peoples. It was similar to, and probably derived from, the pilum used by the Roman army and had a barbed head and long narrow socket or shank made of iron mounted on a wooden haft. It was rare on the battlefield, despite the claim by the Greek historian Agathias, being found mostly in the grave goods of the wealthy. The Fragmentary Chronicle of Saragossa credits an ango with killing King Amalaric of the Visigoths. By the 7th century it had ceased to be used. It also went out of.",
+    "signals": [
+      "Thrown",
+      "Throwing spears"
+    ],
+    "source_title": "Angon",
+    "source_url": "https://en.wikipedia.org/wiki/Angon",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "chimalli": {
+    "name": "Chīmalli",
+    "summary": "The chīmalli (Nahuatl pronunciation: [t͡ʃiːˈmalːi] ; \"shield\"), also known as a yaochimalli (\"war shield\"), was the traditional defensive armament of the indigenous states of Mesoamerica. These shields varied in design and purpose. The chīmalli was also used while wearing special headgear.",
+    "signals": [
+      "Hand-to-hand combat",
+      "Shields"
+    ],
+    "source_title": "Chīmalli",
+    "source_url": "https://en.wikipedia.org/wiki/Ch%C4%ABmalli",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "crossbow": {
+    "name": "Crossbow",
+    "summary": "A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Crossbows shoot arrow-like projectiles called bolts or quarrels. A person who shoots crossbow is called a crossbowman, an arbalister or an arbalist (after the arbalest, a European crossbow variant used during the 12th century). Crossbows and bows use the same elastic launch principles, but differ in that an archer using a bow must draw-and-shoot in a quick and smooth motion with limited or no time for aiming, while a crossbow's design allows it to be spanned.",
+    "signals": [
+      "Crossbows"
+    ],
+    "source_title": "Crossbow",
+    "source_url": "https://en.wikipedia.org/wiki/Crossbow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "catapult": {
+    "name": "Catapult",
+    "summary": "A catapult is a ballistic device used to launch a projectile at a great distance without the aid of gunpowder or other propellants – particularly various types of ancient and medieval siege engines. A catapult uses the sudden release of stored potential energy to propel its payload. Most convert tension or torsion energy that was more slowly and manually built up within the device before release, via springs, bows, twisted rope, elastic, or any of numerous other materials and mechanisms which allow the catapult to launch a projectile such as rocks, cannon balls, or debris. During wars in the ancient times, the catapult was usually known to be the strongest heavy weaponry. In modern times.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Catapult",
+    "source_url": "https://en.wikipedia.org/wiki/Catapult",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "ballista": {
+    "name": "Ballista",
+    "summary": "The ballista (Latin, from Greek βαλλίστρα ballistra and that from βάλλω ballō, \"throw\"), plural ballistae or ballistas, sometimes called bolt thrower, was an ancient projectile weapon that launched either bolts or stones at a distant target. Developed from earlier Greek weapons, it relied upon different mechanics, using two levers with torsion springs instead of a tension prod (the bow part of a modern crossbow). The springs consisted of several loops of twisted skeins. Early versions projected heavy darts or spherical stone projectiles of various sizes for siege warfare. It developed into a smaller precision weapon, the scorpio, and possibly the polybolos.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Ballista",
+    "source_url": "https://en.wikipedia.org/wiki/Ballista",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "trebuchet": {
+    "name": "Trebuchet",
+    "summary": "A trebuchet (French: trébuchet) is a type of catapult that uses a hinged arm with a sling attached to the tip to launch a projectile. It was a common powerful siege engine until the advent of gunpowder. The design of a trebuchet allows it to launch projectiles of greater weights and further distances than a traditional catapult. There are two main types of trebuchet. The first is the traction trebuchet, or mangonel, which uses manpower to swing the arm. It first appeared in China by the 4th century BC. It spread westward, possibly via the Avars, and was adopted by the Byzantines, Persians, Arabs, and other neighboring peoples by the sixth to seventh centuries AD. The later, and often larger.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Trebuchet",
+    "source_url": "https://en.wikipedia.org/wiki/Trebuchet",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "mangonel": {
+    "name": "Mangonel",
+    "summary": "The mangonel, also called the traction trebuchet, was a type of trebuchet used in Ancient China starting from the Warring States period, and later across Eurasia by the 6th century AD. Unlike the later counterweight trebuchet, the mangonel was operated by people pulling ropes attached to one end of a lever, the other end of which had a sling to launch projectiles. Although the mangonel required more men to function, it was also less complex and faster to reload than the torsion-powered onager which it replaced in early Medieval Europe. It was replaced as the primary siege weapon in the 12th and 13th centuries by the counterweight trebuchet. A common misconception about the mangonel is that.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Mangonel",
+    "source_url": "https://en.wikipedia.org/wiki/Mangonel",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "blowgun": {
+    "name": "Blowgun",
+    "summary": "A blowgun (also called a blowpipe or blow tube) is a simple ranged weapon consisting of a long narrow tube for shooting light projectiles such as darts. It operates by having the projectile placed inside the pipe and using the force created by forced exhalation (\"blow\") to pneumatically propel the projectile. The propulsive power is limited by the strength of the user's respiratory muscles and the vital capacity of their lungs.",
+    "signals": [
+      "Blowguns"
+    ],
+    "source_title": "Blowgun",
+    "source_url": "https://en.wikipedia.org/wiki/Blowgun",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "onager_weapon": {
+    "name": "Onager (weapon)",
+    "summary": "The onager (UK: , ; US: ) was a Roman torsion-powered siege engine. It is commonly depicted as a catapult with a bowl, bucket, or sling at the end of its throwing arm. The onager was first mentioned in 353 AD by Ammianus Marcellinus, who described onagers as the same as a scorpion. The onager is often confused with the later mangonel, a \"traction trebuchet\" that replaced torsion powered siege engines in the 6th century AD.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Onager (weapon)",
+    "source_url": "https://en.wikipedia.org/wiki/Onager_(weapon)",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "fukiya": {
+    "name": "Fukiya",
+    "summary": "The fukiya (吹き矢) is the Japanese blowgun, as well as the term for the associated sport. It consists of a 1.2 m (3 ft 11 in) tube, with darts approximately 20 cm (7.9 in) in length. Unlike modern Western blowguns, the fukiya has no mouthpiece: instead, a shooter must maintain a seal with the lips while forcefully exhaling. The darts used in the fukiya are called fukibari. Traditionally, fukibari were 5 cm (2.0 in) in length. In Japan, fukiya is considered to be an archery sport, maintained by the Japan Sports Fukiya Association. In order to promote fukiya, the International Fukiya Association (IFA) was formed, based in Japan. The main organizations under the IFA are the American Association.",
+    "signals": [
+      "Blowguns"
+    ],
+    "source_title": "Fukiya",
+    "source_url": "https://en.wikipedia.org/wiki/Fukiya",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "repeating_crossbow": {
+    "name": "Repeating crossbow",
+    "summary": "The repeating crossbow (Chinese: 連弩; pinyin: Lián Nǔ), also known as the repeater crossbow, and the Zhuge crossbow (Chinese: 諸葛弩; pinyin: Zhūgě nǔ, also romanized Chu-ko-nu) due to its association with the Three Kingdoms-era strategist Zhuge Liang (181–234 AD), is a crossbow invented during the Warring States period in China that combined the bow spanning, bolt placing, and shooting actions into one motion. The earliest archaeological evidence of the repeating crossbow is found in the state of Chu, but it uses a pistol grip that is different from the later and more commonly known Ming dynasty design. Although the repeating crossbow was in use throughout most of Chinese history until the.",
+    "signals": [
+      "Crossbows"
+    ],
+    "source_title": "Repeating crossbow",
+    "source_url": "https://en.wikipedia.org/wiki/Repeating_crossbow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "oxybeles": {
+    "name": "Oxybeles",
+    "summary": "The oxybeles (Greek: οξυβελής) was a weapon used by the Ancient Greeks starting in 375 BC. The word is derived from Ancient Greek: οξύς (oxys = sharp, pointed) and βέλος (belos = arrow). The weapon was basically an oversized gastraphetes, a composite bow placed on a stand with a stock and a trigger. It was supplanted by the scientifically engineered ballista. The difference between the two is the use of torsion power by the ballista. The most notable use of the oxybeles was under Alexander the Great's rule.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Oxybeles",
+    "source_url": "https://en.wikipedia.org/wiki/Oxybeles",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "polybolos": {
+    "name": "Polybolos",
+    "summary": "The polybolos (the name means \"multi-thrower\" in Greek) was an ancient Greek repeating ballista, reputedly invented by Dionysius of Alexandria (a 3rd-century BC Greek engineer at the Rhodes arsenal,) and used in antiquity. The polybolos was not a crossbow since it used a torsion mechanism, drawing its power from twisted sinew-bundles. However the earlier and similar oxybeles employed a tension crossbow mechanism, before it was abandoned in favor of torsion. Philo of Byzantium (c. 280 BC – c. 220 BC) encountered and described a weapon similar to the polybolos, a catapult that could fire again and again without a need for manual reloading. Philo left a detailed description of the gears that.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Polybolos",
+    "source_url": "https://en.wikipedia.org/wiki/Polybolos",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "gastraphetes": {
+    "name": "Gastraphetes",
+    "summary": "The gastraphetes (Koine Greek: γαστραφέτης, lit. 'belly-releaser'), also called belly bow or belly shooter, was a hand-held crossbow used by the Ancient Greeks. It was described in the 1st century by the Greek author Heron of Alexandria in his work Belopoeica, which draws on an earlier account of the famous Greek engineer Ctesibius (fl. 285–222 BC). Heron identifies the gastraphetes as the forerunner of the later catapult, which places its invention some unknown time before c. 420 BC. Unlike later Roman and medieval crossbows, spanning the weapon was not done by pulling up the string but by pushing down a slider mechanism.",
+    "signals": [
+      "Crossbows"
+    ],
+    "source_title": "Gastraphetes",
+    "source_url": "https://en.wikipedia.org/wiki/Gastraphetes",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "catapulta": {
+    "name": "Catapulta",
+    "summary": "A catapulta was a Roman machine for throwing arrows and javelins, 12 feet (3.7 m) or 15 feet (4.6 m) long, at the enemy. The name comes from the Greek katapeltes (καταπέλτης), because it could pierce or 'go through' (kata) shields (peltas). The design was probably inherited, along with the ballista, from Greek armies. Some versions of the catapulta were portable. Smaller two-armed versions of the catapulta were known as scorpiones. The catapulta was made of wood and were placed on stands.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Catapulta",
+    "source_url": "https://en.wikipedia.org/wiki/Catapulta",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "skane_lockbow": {
+    "name": "Skåne lockbow",
+    "summary": "The Skåne lockbow was an early form of crossbow from Skåne or Scania, then a province of Denmark. (It has been part of southern Sweden since 1658.) An example was discovered in 1941 in Sweden. Originally thought to date date from the 16th century, recent archaeological excavations have opened the possibility of an earlier date. The lockbow was used throughout northern Europe between ca. 900-1600 CE. Modern reproductions indicate an effective range of about 75 yards (69 m) and an approximate draw weight of 170 pounds (77 kg) + or - 20lbs. It worked by drawing the bowstring back into a groove, from which it was dislodged by a wooden peg attached to the top of one end of a wooden lever. The.",
+    "signals": [
+      "Crossbows"
+    ],
+    "source_title": "Skåne lockbow",
+    "source_url": "https://en.wikipedia.org/wiki/Sk%C3%A5ne_lockbow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "carroballista": {
+    "name": "Carroballista",
+    "summary": "Carroballista was an ancient, cart-mounted ballista, a type of mobile field artillery. According to the Roman author Vegetius (Epitoma rei militaris II.25), each legion had 55 carroballistae (one per centuria) which were arrow/bolt-shooter of the cheiroballistra (Greek: χειροβαλλίστρα) type. Vegetius tells us that each carroballista was carried by mules and operated by one contubernium (i.e., eight soldiers commanded by one decanus). Surviving representation of a carroballista are from the bas-reliefs of Trajan's Column (Scene XL and Scenes LXV/LXVI) and the Column of Marcus Aurelius.",
+    "signals": [
+      "Crossbows"
+    ],
+    "source_title": "Carroballista",
+    "source_url": "https://en.wikipedia.org/wiki/Carroballista",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "bullet_shooting_crossbow": {
+    "name": "Bullet-shooting crossbow",
+    "summary": "A bullet-shooting crossbow, also known as prodd, pelletbow, ballester, stone bow, or rock-throwing crossbow, is a modified version of the classic crossbow. The bow was usually constructed with wood or steel, depending on the preference. It typically utilizes bullets and stones as projectiles instead of the more traditional bolt or quarrel.",
+    "signals": [
+      "Crossbows"
+    ],
+    "source_title": "Bullet-shooting crossbow",
+    "source_url": "https://en.wikipedia.org/wiki/Bullet-shooting_crossbow",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "hu_dun_pao": {
+    "name": "Hu dun pao",
+    "summary": "Hu dun pao (虎蹲砲) is the name of two different missile weapons in Chinese history. In the Song dynasty (960–1279), it was a trebuchet and its name is translated into English as Crouching Tiger Trebuchet; in the Ming dynasty (1368–1644), the name was given to a type of bombard and it is known in English as Crouching Tiger Cannon.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Hu dun pao",
+    "source_url": "https://en.wikipedia.org/wiki/Hu_dun_pao",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "ballista_elephant": {
+    "name": "Ballista elephant",
+    "summary": "A ballista elephant, also known as a Khmer ballista, is a war elephant mounted with a simple or double-bowed ballista which was used by the Angkorian civilization. They are considered as the summit of sophistication of Khmer weaponry comparable to the carrobalista in the legion of Vegetius.",
+    "signals": [
+      "Stationary, mounted, or wheeled ballistic devices"
+    ],
+    "source_title": "Ballista elephant",
+    "source_url": "https://en.wikipedia.org/wiki/Ballista_elephant",
+    "source_page": "List of premodern combat weapons",
+    "source_license": "CC BY-SA 4.0"
+  },
+  "unknown_or_ambiguous": {
+    "name": "Unknown or Ambiguous",
+    "summary": "The description does not contain enough reliable identifying features for a confident historical type.",
+    "signals": [
+      "missing blade shape",
+      "missing length",
+      "missing hilt details",
+      "mixed or vague features"
+    ],
+    "source_title": "",
+    "source_url": "",
+    "source_page": "local_control_examples",
+    "source_license": "project-authored"
+  }
+}
