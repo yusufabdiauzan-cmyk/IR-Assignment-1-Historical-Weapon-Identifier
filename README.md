@@ -1,3 +1,6 @@
+Hugging Face Space: https://huggingface.co/spaces/yusufabdzn/Historical_Weapon_Identifier_2
+
+
 # Historical Weapon Identifier
 
 This is an embeddings-based classifier for identifying likely historical weapons and related artifacts from informal descriptions. It is designed for educational and museum-style artifact identification.
